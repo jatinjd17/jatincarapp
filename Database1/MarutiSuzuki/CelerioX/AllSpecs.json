@@ -1,32 +1,32 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
-    "EngineType": ["F8D"],
+    "Engine": ["998 cc, 3 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["K10B"],
     "FuelType": ["Petrol"],
-    "MaxPower": ["47 bhp @ 6000 rpm"],
-    "MaxTorque": ["69 Nm @ 3500 rpm"],
-    "Mileage": ["22.05 kmpl"],
+    "MaxPower": ["67 bhp @ 6000 rpm"],
+    "MaxTorque": ["90 Nm @ 3500 rpm"],
+    "Mileage": ["21.63 kmpl"],
     "Drivetrain": ["FWD"],
-    "Transmission": ["Manual - 5 Gears"],
+    "Transmission": ["AMT - 5 Gears, Manual Override"],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
-    "Length": ["3445 mm"],
-    "Width": ["1515 mm"],
-    "Height": ["1475 mm"],
-    "Wheelbase": ["2360 mm"],
-    "GroundClearance": ["160 mm"]
+    "Length": ["3715 mm"],
+    "Width": ["1635 mm"],
+    "Height": ["1565 mm"],
+    "Wheelbase": ["2425 mm"],
+    "GroundClearance": ["165 mm"]
   },
   "SuspensionBrakeSteering": {
-    "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["3-Link Rigid Axle Suspension"],
-    "FrontBrake": ["Disc"],
+    "FrontSuspension": ["MacPherson Strut with Coil Spring"],
+    "RearSuspension": ["Coupled Torision Beam Axle with Coil Spring"],
+    "FrontBrake": ["Ventilated Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["4.6 metres"],
+    "MinimumTurningRadius": ["4.7 metres"],
     "SteeringType": ["Power assisted (Electric)"],
     "Wheels": ["Steel Rims"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["145 / 80 R12"]
+    "TyreSize": ["165 / 70 R14"]
   },
   "Safety": {
     "NCAPRating": ["Not Tested"],
@@ -39,8 +39,8 @@
   },
   "BreakindAndTraction": {
     "AntiLockBreaking": ["Yes"],
-    "ElectricBrakeDistri": ["Yes"],
-    "BrakeAssist": ["Yes"],
+    "ElectricBrakeDistri": ["No"],
+    "BrakeAssist": ["No"],
     "ElectricStabilityProgram": ["No"],
     "HillHoldControl": ["No"],
     "TractionControlSys": ["No"],
@@ -48,7 +48,7 @@
   },
   "LocksAndSecurity": {
     "EngineImmobilizer": ["Yes"],
-    "CentralLocking": ["Remote"],
+    "CentralLocking": ["Keyless"],
     "SpeedSensingDoorLock": ["No"],
     "ChildSafetyLock": ["Yes"]
   },
@@ -57,15 +57,15 @@
     "FrontAC": ["Single Zone, Common Fan Speed Control"],
     "RearAC": ["No"],
     "Heater": ["Yes"],
-    "VanityMirror": ["No"],
+    "VanityMirror": ["Co-Driver"],
     "CabinBootAccess": ["Yes"],
-    "AntiGlareMirrors": ["No"],
+    "AntiGlareMirrors": ["Manual - Internal Only"],
     "ParkingAssist": ["No"],
     "ParkingSensors": ["Rear"],
     "CruiseCOntrol": ["No"],
     "HeadLightIgnitionONReminder": ["Yes"],
     "KeylessStartStopButton": ["No"],
-    "SteeringAdjustment": ["No"],
+    "SteeringAdjustment": ["Tilt"],
     "twelveVPowerOutlets": ["Yes"]
   },
   "SeatsAndUpholstery": {
@@ -75,54 +75,54 @@
     "FrontPassengerSeatAdjustment": [
       "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
     ],
-    "RearRowSeatAdjustment": ["No"],
-    "SeatUpholstery": ["Vinyl + Fabric"],
+    "RearRowSeatAdjustment": ["-"],
+    "SeatUpholstery": ["Fabric"],
     "LeatherWrappedSteeringwheel": ["No"],
     "LeatherWrappedGearKnob": ["No"],
     "DriverArmrest": ["No"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Black and Beige"],
+    "InteriorColors": ["Black & Beige"],
     "RearArmrest": ["No"],
     "FoldingRearSeat": ["Full"],
-    "SplitRearSeat": ["No"],
+    "SplitRearSeat": ["60:40 split"],
     "FrontSeatbackPockets": ["Yes"],
     "HeadRest": ["Front and Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front and Rear"],
+    "CupHolders": ["Front only"],
     "DriverArmrestStorage": ["No"],
     "CooledGloveBox": ["No"],
     "SunglassHOlder": ["No"]
   },
   "DoorsWindowsMirrorsWipers": {
-    "PowerWindows": ["Front Only"],
-    "OneTouchDown": ["No"],
+    "PowerWindows": ["Front & Rear"],
+    "OneTouchDown": ["Driver"],
     "OneTouchUp": ["No"],
-    "AdjustableORVM": ["Internally Adjustable"],
-    "TurnIndicatorsonORVM": ["No"],
-    "RearDefogger": ["No"],
-    "RearWiper": ["No"],
-    "ExteriorDoorHandles": ["Body Coloured"],
+    "AdjustableORVM": ["Electrical Adjustable"],
+    "TurnIndicatorsonORVM": ["Yes"],
+    "RearDefogger": ["Yes"],
+    "RearWiper": ["Yes"],
+    "ExteriorDoorHandles": ["Black"],
     "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Silver"],
+    "InteriorDoorHandles": ["Chrome"],
     "DoorPockets": ["Front"],
     "SideWindowBlinds": ["No"],
-    "BootLidOpener": ["Internal with Remote"],
-    "OutsideRearViewMirrors": ["Body Coloured"]
+    "BootLidOpener": ["Internal with Key"],
+    "OutsideRearViewMirrors": ["Black"]
   },
   "Exterior": {
     "Sunroof": ["No"],
     "RoofMountedAntenna": ["Yes"],
     "BodyColorBumpers": ["Yes"],
-    "BodyKit": ["No"],
+    "BodyKit": ["Yes"],
     "RubStrips": ["Black"]
   },
   "Lighting": {
     "DaytimeRunningLights": ["No"],
     "AmbientInteriorLighting": ["No"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Yes"],
+    "FogLights": ["No"],
     "HeadLights": ["Halogen"],
     "AutomaticHeadLamps": ["No"],
     "FollowmeHomeLamps": ["No"],
@@ -137,30 +137,30 @@
   "Instrumentation": {
     "InstrumentCluster": ["Analogue and Digital"],
     "TripMeter": ["Electronic 2 trips"],
-    "AverageFuelConsumption": ["Yes"],
+    "AverageFuelConsumption": ["No"],
     "AverageSpeed": ["No"],
     "DistanceToEmpty": ["Yes"],
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
     "DoorAjarWarning": ["No"],
-    "AdjustableClusterBrightness": ["No"],
-    "GearIndicator": ["No"],
+    "AdjustableClusterBrightness": ["Yes"],
+    "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
-    "TachoMeter": ["No"],
+    "TachoMeter": ["Analogue"],
     "InstantaneousConsumption": ["No"]
   },
   "EntertainmentInfoandCommunication": {
     "WirelessCharger": ["No"],
-    "SmartConnectivity": ["Android Auto (Yes), Apple Car Play (Yes)"],
+    "SmartConnectivity": ["Android Auto (No), Apple Car Play (No)"],
     "HeadUnitSize": ["-"],
     "IntegratedMusicSystem": ["Yes"],
-    "Display": ["TouchScreen"],
-    "GPSNavigationSystem": ["Yes"],
-    "Speakers": ["2"],
+    "Display": ["Button Display"],
+    "GPSNavigationSystem": ["No"],
+    "Speakers": ["4"],
     "USBCampatibility": ["Yes"],
     "AUXCompatibility": ["Yes"],
     "BluetoothCompatibility": ["Yes"],
-    "SteeringMountedControls": ["No"],
+    "SteeringMountedControls": ["Yes"],
     "VoiceCommand": ["No"],
     "CDPlayer": ["No"]
   },
@@ -168,5 +168,13 @@
     "WarrantyYears": ["2"],
     "WarrantyKilometers": ["40000"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/1280x720/cw/ec/31393/Maruti-Suzuki-Celerio-X-Right-Front-Three-Quarter-153971.jpg?wm=0&q=85"
+    ],
+    "OnlyName": ["Celerio X"],
+    "CarFullName": ["MarutiSuzuki Celerio X"],
+    "Price": ["₹ 5.12 Lakh Onwards"]
   }
 }

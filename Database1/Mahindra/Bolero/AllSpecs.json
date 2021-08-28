@@ -1,46 +1,46 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
-    "EngineType": ["F8D"],
-    "FuelType": ["Petrol"],
-    "MaxPower": ["47 bhp @ 6000 rpm"],
-    "MaxTorque": ["69 Nm @ 3500 rpm"],
-    "Mileage": ["22.05 kmpl"],
+    "Engine": ["1493 cc, 3 Cylinders Inline, 4 Valves/Cylinder, SOHC"],
+    "EngineType": ["mHawk75"],
+    "FuelType": ["Diesel"],
+    "MaxPower": ["75 bhp @ 3600 rpm"],
+    "MaxTorque": ["210 Nm @ 1600 rpm"],
+    "Mileage": ["16.7 kmpl"],
     "Drivetrain": ["FWD"],
     "Transmission": ["Manual - 5 Gears"],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
-    "Length": ["3445 mm"],
-    "Width": ["1515 mm"],
-    "Height": ["1475 mm"],
-    "Wheelbase": ["2360 mm"],
-    "GroundClearance": ["160 mm"]
+    "Length": ["3995 mm"],
+    "Width": ["1745 mm"],
+    "Height": ["1880 mm"],
+    "Wheelbase": ["2680 mm"],
+    "GroundClearance": ["180 mm"]
   },
   "SuspensionBrakeSteering": {
-    "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["3-Link Rigid Axle Suspension"],
+    "FrontSuspension": ["IFS coil spring"],
+    "RearSuspension": ["Rigid leaf spring"],
     "FrontBrake": ["Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["4.6 metres"],
-    "SteeringType": ["Power assisted (Electric)"],
+    "MinimumTurningRadius": ["5.8 metres"],
+    "SteeringType": ["Power assisted (Hydraulic)"],
     "Wheels": ["Steel Rims"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["145 / 80 R12"]
+    "TyreSize": ["215 / 75 R15"]
   },
   "Safety": {
     "NCAPRating": ["Not Tested"],
-    "Airbags": ["2 Airbags (Driver, Passenger)"],
+    "Airbags": ["1 Airbag Driver"],
     "MiddleRearSeatbelt": ["No"],
     "MiddleRearHeadrest": ["No"],
     "TyrePressureMoni": ["No"],
     "ChildSeatAnchor": ["No"],
-    "SeatBeltWarning": ["Yes"]
+    "SeatBeltWarning": ["No"]
   },
   "BreakindAndTraction": {
     "AntiLockBreaking": ["Yes"],
-    "ElectricBrakeDistri": ["Yes"],
-    "BrakeAssist": ["Yes"],
+    "ElectricBrakeDistri": ["No"],
+    "BrakeAssist": ["No"],
     "ElectricStabilityProgram": ["No"],
     "HillHoldControl": ["No"],
     "TractionControlSys": ["No"],
@@ -53,110 +53,110 @@
     "ChildSafetyLock": ["Yes"]
   },
   "ConfortAndCOnvenience": {
-    "AirConditioner": ["Yes (Manual)"],
-    "FrontAC": ["Single Zone, Common Fan Speed Control"],
+    "AirConditioner": ["Yes (Automatic)"],
+    "FrontAC": [" Common Fan Speed Control"],
     "RearAC": ["No"],
     "Heater": ["Yes"],
-    "VanityMirror": ["No"],
+    "VanityMirror": ["Co-Driver Only"],
     "CabinBootAccess": ["Yes"],
-    "AntiGlareMirrors": ["No"],
-    "ParkingAssist": ["No"],
+    "AntiGlareMirrors": ["Manual Internal Only"],
+    "ParkingAssist": ["Rear Senson"],
     "ParkingSensors": ["Rear"],
     "CruiseCOntrol": ["No"],
     "HeadLightIgnitionONReminder": ["Yes"],
-    "KeylessStartStopButton": ["No"],
+    "KeylessStartStopButton": ["Yes"],
     "SteeringAdjustment": ["No"],
-    "twelveVPowerOutlets": ["Yes"]
+    "twelveVPowerOutlets": ["1"]
   },
   "SeatsAndUpholstery": {
     "DriverSeatAdjustment": [
-      "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
+      "6 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down)"
     ],
     "FrontPassengerSeatAdjustment": [
-      "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
+      "6 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down)"
     ],
-    "RearRowSeatAdjustment": ["No"],
-    "SeatUpholstery": ["Vinyl + Fabric"],
+    "RearRowSeatAdjustment": ["2 way manually adjustable (headrest up / down)"],
+    "SeatUpholstery": ["Fabric"],
     "LeatherWrappedSteeringwheel": ["No"],
     "LeatherWrappedGearKnob": ["No"],
     "DriverArmrest": ["No"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Black and Beige"],
-    "RearArmrest": ["No"],
+    "InteriorColors": ["Brown and Beige"],
+    "RearArmrest": ["Yes"],
     "FoldingRearSeat": ["Full"],
-    "SplitRearSeat": ["No"],
+    "SplitRearSeat": ["-"],
     "FrontSeatbackPockets": ["Yes"],
     "HeadRest": ["Front and Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front and Rear"],
+    "CupHolders": ["Front"],
     "DriverArmrestStorage": ["No"],
     "CooledGloveBox": ["No"],
     "SunglassHOlder": ["No"]
   },
   "DoorsWindowsMirrorsWipers": {
-    "PowerWindows": ["Front Only"],
+    "PowerWindows": ["Front & Rear"],
     "OneTouchDown": ["No"],
     "OneTouchUp": ["No"],
-    "AdjustableORVM": ["Internally Adjustable"],
+    "AdjustableORVM": ["Externally Adjustable"],
     "TurnIndicatorsonORVM": ["No"],
     "RearDefogger": ["No"],
-    "RearWiper": ["No"],
-    "ExteriorDoorHandles": ["Body Coloured"],
+    "RearWiper": ["Yes"],
+    "ExteriorDoorHandles": ["Black"],
     "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Silver"],
+    "InteriorDoorHandles": ["Black"],
     "DoorPockets": ["Front"],
     "SideWindowBlinds": ["No"],
-    "BootLidOpener": ["Internal with Remote"],
+    "BootLidOpener": ["with Key"],
     "OutsideRearViewMirrors": ["Body Coloured"]
   },
   "Exterior": {
     "Sunroof": ["No"],
-    "RoofMountedAntenna": ["Yes"],
+    "RoofMountedAntenna": ["No"],
     "BodyColorBumpers": ["Yes"],
-    "BodyKit": ["No"],
+    "BodyKit": ["Decals"],
     "RubStrips": ["Black"]
   },
   "Lighting": {
     "DaytimeRunningLights": ["No"],
     "AmbientInteriorLighting": ["No"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Yes"],
+    "FogLights": ["Halogen"],
     "HeadLights": ["Halogen"],
     "AutomaticHeadLamps": ["No"],
     "FollowmeHomeLamps": ["No"],
     "TailLight": ["Halogen"],
-    "CabinLamps": ["Front"],
+    "CabinLamps": ["Centre"],
     "HeadLightHeightAdjuster": ["Yes"],
     "GloveBoxLamp": ["No"],
-    "LightsonVanityMirrors": ["No"],
-    "RearReadingLamps": ["No"],
-    "COrneringHeadLights": ["No"]
+    "LightsonVanityMirrors": ["Co-Driver Only"],
+    "RearReadingLamps": ["Yes"],
+    "COrneringHeadLights": ["Passive"]
   },
   "Instrumentation": {
-    "InstrumentCluster": ["Analogue and Digital"],
+    "InstrumentCluster": ["Analogue-Digital"],
     "TripMeter": ["Electronic 2 trips"],
     "AverageFuelConsumption": ["Yes"],
     "AverageSpeed": ["No"],
     "DistanceToEmpty": ["Yes"],
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
-    "DoorAjarWarning": ["No"],
-    "AdjustableClusterBrightness": ["No"],
-    "GearIndicator": ["No"],
+    "DoorAjarWarning": ["Yes"],
+    "AdjustableClusterBrightness": ["Yes"],
+    "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
-    "TachoMeter": ["No"],
+    "TachoMeter": ["Digital"],
     "InstantaneousConsumption": ["No"]
   },
   "EntertainmentInfoandCommunication": {
     "WirelessCharger": ["No"],
-    "SmartConnectivity": ["Android Auto (Yes), Apple Car Play (Yes)"],
-    "HeadUnitSize": ["-"],
+    "SmartConnectivity": ["Android Auto (No), Apple Car Play (No)"],
+    "HeadUnitSize": ["No"],
     "IntegratedMusicSystem": ["Yes"],
-    "Display": ["TouchScreen"],
-    "GPSNavigationSystem": ["Yes"],
-    "Speakers": ["2"],
+    "Display": ["Digital Display"],
+    "GPSNavigationSystem": ["No"],
+    "Speakers": ["4"],
     "USBCampatibility": ["Yes"],
     "AUXCompatibility": ["Yes"],
     "BluetoothCompatibility": ["Yes"],
@@ -165,8 +165,16 @@
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
-    "WarrantyYears": ["2"],
-    "WarrantyKilometers": ["40000"],
+    "WarrantyYears": ["3"],
+    "WarrantyKilometers": ["100000"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/45933/mahindra-bolero-right-front-three-quarter1.jpeg?q=85"
+    ],
+    "OnlyName": ["Bolero"],
+    "CarFullName": ["Mahindra Bolero"],
+    "Price": ["₹ 8.64 Lakh"]
   }
 }

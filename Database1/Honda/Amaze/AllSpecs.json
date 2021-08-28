@@ -1,42 +1,40 @@
 {
   "EngineTransmission": {
-    "Engine": ["1493 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
-    "EngineType": ["TDCi"],
+    "Engine": ["1498 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["i-DTEC"],
     "FuelType": ["Diesel"],
-    "MaxPower": ["99 bhp @ 3750 rpm"],
-    "MaxTorque": ["215 Nm @ 1750 rpm"],
-    "Mileage": ["24.4 kmpl"],
+    "MaxPower": ["80 bhp @ 3600 rpm"],
+    "MaxTorque": ["180 Nm @ 1750 rpm"],
+    "Mileage": ["21 kmpl"],
     "Drivetrain": ["FWD"],
-    "Transmission": ["Manual"],
+    "Transmission": ["Automatic (CVT) - CVT Gears"],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
     "Length": ["3995 mm"],
-    "Width": ["1704 mm"],
-    "Height": ["1525 mm"],
-    "Wheelbase": ["2490 mm"],
-    "GroundClearance": ["174 mm"]
+    "Width": ["1695 mm"],
+    "Height": ["1501 mm"],
+    "Wheelbase": ["2470 mm"],
+    "GroundClearance": ["165 mm"]
   },
   "SuspensionBrakeSteering": {
     "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["Semi-independent (Twist beam type)"],
+    "RearSuspension": ["Torsion Beam, Coil Spring"],
     "FrontBrake": ["Disc"],
     "RearBrake": ["Drum"],
     "MinimumTurningRadius": ["4.9 metres"],
     "SteeringType": ["Power assisted (Electric)"],
     "Wheels": ["Alloy Wheels"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["195 / 55 R15"]
+    "TyreSize": ["175 / 65 R15"]
   },
   "Safety": {
-    "NCAPRating": ["Not Tested"],
-    "Airbags": [
-      "6 Airbags (Driver, Passenger, 2 Curtain, Driver Side, Front Passenger Side)"
-    ],
+    "NCAPRating": ["4 Star (Global NCAP)"],
+    "Airbags": ["2 Airbags (Driver, Front Passenger)"],
     "MiddleRearSeatbelt": ["No"],
     "MiddleRearHeadrest": ["No"],
     "TyrePressureMoni": ["No"],
-    "ChildSeatAnchor": ["No"],
+    "ChildSeatAnchor": ["Yes"],
     "SeatBeltWarning": ["Yes"]
   },
   "BreakindAndTraction": {
@@ -44,31 +42,31 @@
     "ElectricBrakeDistri": ["Yes"],
     "BrakeAssist": ["No"],
     "ElectricStabilityProgram": ["No"],
-    "HillHoldControl": ["No"],
+    "HillHoldControl": ["Yes"],
     "TractionControlSys": ["No"],
     "HillDescentControl": ["No"]
   },
   "LocksAndSecurity": {
     "EngineImmobilizer": ["Yes"],
-    "CentralLocking": ["Remote"],
+    "CentralLocking": ["Keyless"],
     "SpeedSensingDoorLock": ["Yes"],
     "ChildSafetyLock": ["Yes"]
   },
   "ConfortAndCOnvenience": {
     "AirConditioner": ["Yes (Automatic)"],
-    "FrontAC": ["Common Fan Speed Control"],
+    "FrontAC": ["Single Zone, Common Fan Speed Control"],
     "RearAC": ["-"],
     "Heater": ["Yes"],
-    "VanityMirror": ["Driver & Co-Driver Only"],
+    "VanityMirror": ["Co-Driver Only"],
     "CabinBootAccess": ["No"],
-    "AntiGlareMirrors": ["Electronic Internal Only"],
+    "AntiGlareMirrors": ["Manual Internal Only"],
     "ParkingAssist": ["Reverse Camera with GUidance"],
     "ParkingSensors": ["Rear"],
-    "CruiseCOntrol": ["No"],
+    "CruiseCOntrol": ["Yes"],
     "HeadLightIgnitionONReminder": ["Yes"],
-    "KeylessStartStopButton": ["No"],
+    "KeylessStartStopButton": ["Yes"],
     "SteeringAdjustment": ["Tilt"],
-    "twelveVPowerOutlets": ["1"]
+    "twelveVPowerOutlets": ["Yes"]
   },
   "SeatsAndUpholstery": {
     "DriverSeatAdjustment": [
@@ -81,18 +79,18 @@
     "SeatUpholstery": ["Fabric"],
     "LeatherWrappedSteeringwheel": ["No"],
     "LeatherWrappedGearKnob": ["No"],
-    "DriverArmrest": ["No"],
+    "DriverArmrest": ["Optional"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Sand + Light Oak"],
+    "InteriorColors": ["Black and Beige"],
     "RearArmrest": ["Yes"],
     "FoldingRearSeat": ["No"],
     "SplitRearSeat": ["No"],
-    "FrontSeatbackPockets": ["Yes"],
+    "FrontSeatbackPockets": ["No"],
     "HeadRest": ["Front and Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front"],
+    "CupHolders": ["Front & Rear"],
     "DriverArmrestStorage": ["No"],
     "CooledGloveBox": ["No"],
     "SunglassHOlder": ["No"]
@@ -105,9 +103,9 @@
     "TurnIndicatorsonORVM": ["Yes"],
     "RearDefogger": ["Yes"],
     "RearWiper": ["No"],
-    "ExteriorDoorHandles": ["Body Coloured"],
+    "ExteriorDoorHandles": ["Chrome"],
     "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Black"],
+    "InteriorDoorHandles": ["Silver"],
     "DoorPockets": ["Front & Rear"],
     "SideWindowBlinds": ["No"],
     "BootLidOpener": ["Electric Tailgate Release"],
@@ -121,19 +119,19 @@
     "RubStrips": ["No"]
   },
   "Lighting": {
-    "DaytimeRunningLights": ["No"],
-    "AmbientInteriorLighting": ["No"],
+    "DaytimeRunningLights": ["LED"],
+    "AmbientInteriorLighting": ["Optional"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Halogen"],
-    "HeadLights": ["Halogen"],
-    "AutomaticHeadLamps": ["No"],
-    "FollowmeHomeLamps": ["Yes"],
-    "TailLight": ["Halogen"],
-    "CabinLamps": ["Front"],
+    "FogLights": ["LED"],
+    "HeadLights": ["LED"],
+    "AutomaticHeadLamps": ["Yes"],
+    "FollowmeHomeLamps": ["No"],
+    "TailLight": ["LED"],
+    "CabinLamps": ["Front & Rear"],
     "HeadLightHeightAdjuster": ["Yes"],
     "GloveBoxLamp": ["No"],
     "LightsonVanityMirrors": ["No"],
-    "RearReadingLamps": ["No"],
+    "RearReadingLamps": ["Yes"],
     "COrneringHeadLights": ["No"]
   },
   "Instrumentation": {
@@ -145,30 +143,38 @@
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
     "DoorAjarWarning": ["Yes"],
-    "AdjustableClusterBrightness": ["No"],
+    "AdjustableClusterBrightness": ["Yes"],
     "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
     "TachoMeter": ["Analog"],
-    "InstantaneousConsumption": ["No"]
+    "InstantaneousConsumption": ["Yes"]
   },
   "EntertainmentInfoandCommunication": {
-    "WirelessCharger": ["No"],
+    "WirelessCharger": ["Optional"],
     "SmartConnectivity": ["Android Auto (Yes), Apple Car Play (Yes)"],
     "HeadUnitSize": ["No"],
     "IntegratedMusicSystem": ["Yes"],
     "Display": ["TouchScreen"],
-    "GPSNavigationSystem": ["No"],
+    "GPSNavigationSystem": ["Yes"],
     "Speakers": ["4"],
     "USBCampatibility": ["Yes"],
-    "AUXCompatibility": ["Yes"],
+    "AUXCompatibility": ["No"],
     "BluetoothCompatibility": ["Yes"],
     "SteeringMountedControls": ["Yes"],
-    "VoiceCommand": ["No"],
+    "VoiceCommand": ["Yes"],
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
     "WarrantyYears": ["3"],
-    "WarrantyKilometers": ["-"],
+    "WarrantyKilometers": ["Unlimited"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/35583/aspire-exterior-right-front-three-quarter-2.jpeg?q=85"
+    ],
+    "OnlyName": ["Aspire"],
+    "CarFullName": ["Ford Aspire"],
+    "Price": ["₹ 7.28 Lakh"]
   }
 }

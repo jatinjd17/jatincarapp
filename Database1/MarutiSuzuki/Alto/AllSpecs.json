@@ -1,6 +1,6 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
+    "Engine": ["796 cc, 3 Cylinders Inline, 4 Valves/Cylinder, SOHC"],
     "EngineType": ["F8D"],
     "FuelType": ["Petrol"],
     "MaxPower": ["47 bhp @ 6000 rpm"],
@@ -168,5 +168,11 @@
     "WarrantyYears": ["2"],
     "WarrantyKilometers": ["40000"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": ["https://i.ibb.co/1dp14nG/Alto800.jpg"],
+    "OnlyName": ["Alto"],
+    "CarFullName": ["MarutiSuzuki Alto"],
+    "Price": ["₹ 3.00 Lakh Onwards"]
   }
 }

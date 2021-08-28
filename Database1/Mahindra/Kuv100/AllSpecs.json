@@ -1,46 +1,50 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
-    "EngineType": ["F8D"],
+    "Engine": ["1198 cc, 3 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["1.2 L mFALCON G80"],
     "FuelType": ["Petrol"],
-    "MaxPower": ["47 bhp @ 6000 rpm"],
-    "MaxTorque": ["69 Nm @ 3500 rpm"],
-    "Mileage": ["22.05 kmpl"],
+    "MaxPower": ["82 bhp @ 5500 rpm"],
+    "MaxTorque": ["115 Nm @ 3500 rpm"],
+    "Mileage": ["-"],
     "Drivetrain": ["FWD"],
     "Transmission": ["Manual - 5 Gears"],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
-    "Length": ["3445 mm"],
-    "Width": ["1515 mm"],
-    "Height": ["1475 mm"],
-    "Wheelbase": ["2360 mm"],
-    "GroundClearance": ["160 mm"]
+    "Length": ["3700 mm"],
+    "Width": ["1735 mm"],
+    "Height": ["1655 mm"],
+    "Wheelbase": ["2385 mm"],
+    "GroundClearance": ["170 mm"]
   },
   "SuspensionBrakeSteering": {
-    "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["3-Link Rigid Axle Suspension"],
+    "FrontSuspension": [
+      "Independent McPherson Strut with Dual Path Mounts, Coil Spring and Hydraulic Gas Charged Shock Absorber"
+    ],
+    "RearSuspension": [
+      "Semi-Independent Twist Beam with Coil Spring and Hydraulic Gas Charged Shock Absorber"
+    ],
     "FrontBrake": ["Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["4.6 metres"],
-    "SteeringType": ["Power assisted (Electric)"],
-    "Wheels": ["Steel Rims"],
+    "MinimumTurningRadius": ["5.05 metres"],
+    "SteeringType": ["Power assisted (Hydraulic)"],
+    "Wheels": ["Alloy Wheels"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["145 / 80 R12"]
+    "TyreSize": ["185 / 60 R15"]
   },
   "Safety": {
     "NCAPRating": ["Not Tested"],
-    "Airbags": ["2 Airbags (Driver, Passenger)"],
+    "Airbags": ["2 Airbags "],
     "MiddleRearSeatbelt": ["No"],
     "MiddleRearHeadrest": ["No"],
     "TyrePressureMoni": ["No"],
-    "ChildSeatAnchor": ["No"],
+    "ChildSeatAnchor": ["Yes"],
     "SeatBeltWarning": ["Yes"]
   },
   "BreakindAndTraction": {
     "AntiLockBreaking": ["Yes"],
     "ElectricBrakeDistri": ["Yes"],
-    "BrakeAssist": ["Yes"],
+    "BrakeAssist": ["No"],
     "ElectricStabilityProgram": ["No"],
     "HillHoldControl": ["No"],
     "TractionControlSys": ["No"],
@@ -49,114 +53,114 @@
   "LocksAndSecurity": {
     "EngineImmobilizer": ["Yes"],
     "CentralLocking": ["Remote"],
-    "SpeedSensingDoorLock": ["No"],
+    "SpeedSensingDoorLock": ["Yes"],
     "ChildSafetyLock": ["Yes"]
   },
   "ConfortAndCOnvenience": {
     "AirConditioner": ["Yes (Manual)"],
-    "FrontAC": ["Single Zone, Common Fan Speed Control"],
+    "FrontAC": [" Common Fan Speed Control"],
     "RearAC": ["No"],
     "Heater": ["Yes"],
-    "VanityMirror": ["No"],
+    "VanityMirror": ["Co-Driver Only"],
     "CabinBootAccess": ["Yes"],
-    "AntiGlareMirrors": ["No"],
-    "ParkingAssist": ["No"],
+    "AntiGlareMirrors": ["Manual Internal Only"],
+    "ParkingAssist": ["Rear Camera"],
     "ParkingSensors": ["Rear"],
-    "CruiseCOntrol": ["No"],
+    "CruiseCOntrol": ["Yes"],
     "HeadLightIgnitionONReminder": ["Yes"],
     "KeylessStartStopButton": ["No"],
-    "SteeringAdjustment": ["No"],
-    "twelveVPowerOutlets": ["Yes"]
+    "SteeringAdjustment": ["Tilt"],
+    "twelveVPowerOutlets": ["1"]
   },
   "SeatsAndUpholstery": {
     "DriverSeatAdjustment": [
-      "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
+      "6 way manually adjustable (seat forward / back, backrest tilt forward / back, seat height up / down)"
     ],
     "FrontPassengerSeatAdjustment": [
       "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
     ],
-    "RearRowSeatAdjustment": ["No"],
-    "SeatUpholstery": ["Vinyl + Fabric"],
+    "RearRowSeatAdjustment": ["2 way manually adjustable (headrest up / down)"],
+    "SeatUpholstery": ["Fabric"],
     "LeatherWrappedSteeringwheel": ["No"],
     "LeatherWrappedGearKnob": ["No"],
-    "DriverArmrest": ["No"],
+    "DriverArmrest": ["Yes"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Black and Beige"],
-    "RearArmrest": ["No"],
+    "InteriorColors": ["Black"],
+    "RearArmrest": ["Yes"],
     "FoldingRearSeat": ["Full"],
-    "SplitRearSeat": ["No"],
+    "SplitRearSeat": ["-"],
     "FrontSeatbackPockets": ["Yes"],
     "HeadRest": ["Front and Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front and Rear"],
+    "CupHolders": ["Front"],
     "DriverArmrestStorage": ["No"],
-    "CooledGloveBox": ["No"],
-    "SunglassHOlder": ["No"]
+    "CooledGloveBox": ["Yes"],
+    "SunglassHOlder": ["Yes"]
   },
   "DoorsWindowsMirrorsWipers": {
-    "PowerWindows": ["Front Only"],
+    "PowerWindows": ["Front & Rear"],
     "OneTouchDown": ["No"],
     "OneTouchUp": ["No"],
-    "AdjustableORVM": ["Internally Adjustable"],
-    "TurnIndicatorsonORVM": ["No"],
-    "RearDefogger": ["No"],
-    "RearWiper": ["No"],
+    "AdjustableORVM": ["Electrically Adjustable"],
+    "TurnIndicatorsonORVM": ["Yes"],
+    "RearDefogger": ["Yes"],
+    "RearWiper": ["Yes"],
     "ExteriorDoorHandles": ["Body Coloured"],
     "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Silver"],
-    "DoorPockets": ["Front"],
+    "InteriorDoorHandles": ["Black"],
+    "DoorPockets": ["Front & Rear"],
     "SideWindowBlinds": ["No"],
-    "BootLidOpener": ["Internal with Remote"],
-    "OutsideRearViewMirrors": ["Body Coloured"]
+    "BootLidOpener": ["with Key"],
+    "OutsideRearViewMirrors": ["Black"]
   },
   "Exterior": {
     "Sunroof": ["No"],
     "RoofMountedAntenna": ["Yes"],
     "BodyColorBumpers": ["Yes"],
-    "BodyKit": ["No"],
+    "BodyKit": ["Cladding - Black/Grey"],
     "RubStrips": ["Black"]
   },
   "Lighting": {
-    "DaytimeRunningLights": ["No"],
+    "DaytimeRunningLights": ["LED"],
     "AmbientInteriorLighting": ["No"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Yes"],
+    "FogLights": ["Halogen"],
     "HeadLights": ["Halogen"],
     "AutomaticHeadLamps": ["No"],
-    "FollowmeHomeLamps": ["No"],
+    "FollowmeHomeLamps": ["Yes"],
     "TailLight": ["Halogen"],
-    "CabinLamps": ["Front"],
+    "CabinLamps": ["Centre"],
     "HeadLightHeightAdjuster": ["Yes"],
     "GloveBoxLamp": ["No"],
-    "LightsonVanityMirrors": ["No"],
-    "RearReadingLamps": ["No"],
-    "COrneringHeadLights": ["No"]
+    "LightsonVanityMirrors": ["Co-Driver Only"],
+    "RearReadingLamps": ["Yes"],
+    "COrneringHeadLights": ["-"]
   },
   "Instrumentation": {
-    "InstrumentCluster": ["Analogue and Digital"],
+    "InstrumentCluster": ["Analogue-Digital"],
     "TripMeter": ["Electronic 2 trips"],
     "AverageFuelConsumption": ["Yes"],
     "AverageSpeed": ["No"],
     "DistanceToEmpty": ["Yes"],
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
-    "DoorAjarWarning": ["No"],
-    "AdjustableClusterBrightness": ["No"],
-    "GearIndicator": ["No"],
+    "DoorAjarWarning": ["Yes"],
+    "AdjustableClusterBrightness": ["Yes"],
+    "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
-    "TachoMeter": ["No"],
+    "TachoMeter": ["Digital"],
     "InstantaneousConsumption": ["No"]
   },
   "EntertainmentInfoandCommunication": {
     "WirelessCharger": ["No"],
-    "SmartConnectivity": ["Android Auto (Yes), Apple Car Play (Yes)"],
-    "HeadUnitSize": ["-"],
+    "SmartConnectivity": ["Android Auto (No), Apple Car Play (No)"],
+    "HeadUnitSize": ["No"],
     "IntegratedMusicSystem": ["Yes"],
-    "Display": ["TouchScreen"],
-    "GPSNavigationSystem": ["Yes"],
-    "Speakers": ["2"],
+    "Display": ["Digital Display"],
+    "GPSNavigationSystem": ["No"],
+    "Speakers": ["6"],
     "USBCampatibility": ["Yes"],
     "AUXCompatibility": ["Yes"],
     "BluetoothCompatibility": ["Yes"],
@@ -165,8 +169,16 @@
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
-    "WarrantyYears": ["2"],
-    "WarrantyKilometers": ["40000"],
+    "WarrantyYears": ["3"],
+    "WarrantyKilometers": ["100000"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/21497/kuv100-nxt-exterior-right-front-three-quarter-64047.jpeg?q=85"
+    ],
+    "OnlyName": ["KUV 100 NXT"],
+    "CarFullName": ["Mahindra KUV 100 NXT"],
+    "Price": ["₹ 6.10 Lakh"]
   }
 }

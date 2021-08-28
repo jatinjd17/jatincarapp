@@ -18,11 +18,11 @@
     "GroundClearance": ["165 mm"]
   },
   "SuspensionBrakeSteering": {
-    "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["Couple Torsion Beam Axle"],
+    "FrontSuspension": ["McPherson Strut with coil Spring"],
+    "RearSuspension": ["Coupled Torsion Beam Axle"],
     "FrontBrake": ["Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["5.2 metres"],
+    "MinimumTurningRadius": ["5.2"],
     "SteeringType": ["Power assisted (Electric)"],
     "Wheels": ["Alloy Wheels"],
     "SpareWheel": ["Steel"],
@@ -35,17 +35,17 @@
     ],
     "MiddleRearSeatbelt": ["No"],
     "MiddleRearHeadrest": ["No"],
-    "TyrePressureMoni": ["yes"],
-    "ChildSeatAnchor": ["yes"],
+    "TyrePressureMoni": ["Yes"],
+    "ChildSeatAnchor": ["Yes"],
     "SeatBeltWarning": ["Yes"]
   },
   "BreakindAndTraction": {
     "AntiLockBreaking": ["Yes"],
     "ElectricBrakeDistri": ["Yes"],
     "BrakeAssist": ["No"],
-    "ElectricStabilityProgram": ["yes"],
-    "HillHoldControl": ["yes"],
-    "TractionControlSys": ["yes"],
+    "ElectricStabilityProgram": ["Yes"],
+    "HillHoldControl": ["Yes"],
+    "TractionControlSys": ["Yes"],
     "HillDescentControl": ["No"]
   },
   "LocksAndSecurity": {
@@ -57,34 +57,34 @@
   "ConfortAndCOnvenience": {
     "AirConditioner": ["Yes (Automatic)"],
     "FrontAC": ["Single Zone, Common Fan Speed Control"],
-    "RearAC": ["Yes"],
+    "RearAC": ["Blower, Vents Behind Front Armrest"],
     "Heater": ["Yes"],
     "VanityMirror": ["Co-Driver Only"],
     "CabinBootAccess": ["No"],
-    "AntiGlareMirrors": ["Electronic Internal Only"],
-    "ParkingAssist": ["Reverse Camera"],
+    "AntiGlareMirrors": ["Electric - Internal Only"],
+    "ParkingAssist": ["Reverse Camera with Guidance"],
     "ParkingSensors": ["Rear"],
     "CruiseCOntrol": ["Yes"],
     "HeadLightIgnitionONReminder": ["Yes"],
     "KeylessStartStopButton": ["Yes"],
     "SteeringAdjustment": ["Tilt & Telescopic"],
-    "twelveVPowerOutlets": ["1"]
+    "twelveVPowerOutlets": ["Yes"]
   },
   "SeatsAndUpholstery": {
     "DriverSeatAdjustment": [
-      "8 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down, seat height up / down)"
+      "8 way electrically adjustable (seat forward / back, backrest tilt forward / back, seat height up / down, seat base angle up / down) + 2 way manually adjustable (headrest up / down)"
     ],
     "FrontPassengerSeatAdjustment": [
       "6 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down)"
     ],
     "RearRowSeatAdjustment": ["2 way manually adjustable (headrest up / down)"],
-    "SeatUpholstery": ["Leather"],
+    "SeatUpholstery": ["Leatherette"],
     "LeatherWrappedSteeringwheel": ["Yes"],
     "LeatherWrappedGearKnob": ["Yes"],
     "DriverArmrest": ["Yes"],
     "RearPassengerSeatsType": ["Bench"],
-    "VentilatedSeats": ["Front"],
-    "InteriorColors": ["Black and Beige"],
+    "VentilatedSeats": ["Front Only"],
+    "InteriorColors": ["Beige & Black"],
     "RearArmrest": ["Yes"],
     "FoldingRearSeat": ["No"],
     "SplitRearSeat": ["No"],
@@ -114,7 +114,7 @@
     "OutsideRearViewMirrors": ["Body Coloured"]
   },
   "Exterior": {
-    "Sunroof": ["Electrically Adjustable"],
+    "Sunroof": ["Electric Sunroof"],
     "RoofMountedAntenna": ["Yes"],
     "BodyColorBumpers": ["Yes"],
     "BodyKit": ["No"],
@@ -122,7 +122,7 @@
   },
   "Lighting": {
     "DaytimeRunningLights": ["Yes"],
-    "AmbientInteriorLighting": ["No"],
+    "AmbientInteriorLighting": ["Yes"],
     "PuddleLamps": ["No"],
     "FogLights": ["LED"],
     "HeadLights": ["LED"],
@@ -137,7 +137,7 @@
     "COrneringHeadLights": ["Active"]
   },
   "Instrumentation": {
-    "InstrumentCluster": ["Analogue and Digital"],
+    "InstrumentCluster": ["Analogue - Digital"],
     "TripMeter": ["Electronic 2 trips"],
     "AverageFuelConsumption": ["Yes"],
     "AverageSpeed": ["Yes"],
@@ -148,7 +148,7 @@
     "AdjustableClusterBrightness": ["Yes"],
     "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
-    "TachoMeter": ["Digital"],
+    "TachoMeter": ["Analogue"],
     "InstantaneousConsumption": ["Yes"]
   },
   "EntertainmentInfoandCommunication": {
@@ -167,8 +167,16 @@
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
-    "WarrantyYears": ["2"],
+    "WarrantyYears": ["3"],
     "WarrantyKilometers": ["Unlimited"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41197/hyundai-verna-right-front-three-quarter7.jpeg?q=85"
+    ],
+    "OnlyName": ["Verna"],
+    "CarFullName": ["Hyundai Verna"],
+    "Price": ["₹ 9.28 Lakh Onwards"]
   }
 }

@@ -1,32 +1,32 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
-    "EngineType": ["F8D"],
+    "Engine": ["998 cc, 3 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["K10B"],
     "FuelType": ["Petrol"],
-    "MaxPower": ["47 bhp @ 6000 rpm"],
-    "MaxTorque": ["69 Nm @ 3500 rpm"],
-    "Mileage": ["22.05 kmpl"],
+    "MaxPower": ["67 bhp @ 5500 rpm"],
+    "MaxTorque": ["90 Nm @ 3500 rpm"],
+    "Mileage": ["21.7 kmpl"],
     "Drivetrain": ["FWD"],
-    "Transmission": ["Manual - 5 Gears"],
+    "Transmission": ["AMT - 5 Gears, Manual Override"],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
-    "Length": ["3445 mm"],
-    "Width": ["1515 mm"],
-    "Height": ["1475 mm"],
-    "Wheelbase": ["2360 mm"],
-    "GroundClearance": ["160 mm"]
+    "Length": ["3565 mm"],
+    "Width": ["1520 mm"],
+    "Height": ["1564 mm"],
+    "Wheelbase": ["2380 mm"],
+    "GroundClearance": ["180 mm"]
   },
   "SuspensionBrakeSteering": {
     "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["3-Link Rigid Axle Suspension"],
-    "FrontBrake": ["Disc"],
+    "RearSuspension": ["Torsion Beam with Coil Spring"],
+    "FrontBrake": ["Ventilated Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["4.6 metres"],
+    "MinimumTurningRadius": ["4.5 metres"],
     "SteeringType": ["Power assisted (Electric)"],
     "Wheels": ["Steel Rims"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["145 / 80 R12"]
+    "TyreSize": ["165 / 70 R14"]
   },
   "Safety": {
     "NCAPRating": ["Not Tested"],
@@ -76,21 +76,21 @@
       "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
     ],
     "RearRowSeatAdjustment": ["No"],
-    "SeatUpholstery": ["Vinyl + Fabric"],
+    "SeatUpholstery": ["Fabric"],
     "LeatherWrappedSteeringwheel": ["No"],
     "LeatherWrappedGearKnob": ["No"],
     "DriverArmrest": ["No"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Black and Beige"],
+    "InteriorColors": ["Black"],
     "RearArmrest": ["No"],
     "FoldingRearSeat": ["Full"],
     "SplitRearSeat": ["No"],
-    "FrontSeatbackPockets": ["Yes"],
+    "FrontSeatbackPockets": ["No"],
     "HeadRest": ["Front and Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front and Rear"],
+    "CupHolders": ["Front Only"],
     "DriverArmrestStorage": ["No"],
     "CooledGloveBox": ["No"],
     "SunglassHOlder": ["No"]
@@ -105,7 +105,7 @@
     "RearWiper": ["No"],
     "ExteriorDoorHandles": ["Body Coloured"],
     "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Silver"],
+    "InteriorDoorHandles": ["Painted"],
     "DoorPockets": ["Front"],
     "SideWindowBlinds": ["No"],
     "BootLidOpener": ["Internal with Remote"],
@@ -115,39 +115,39 @@
     "Sunroof": ["No"],
     "RoofMountedAntenna": ["Yes"],
     "BodyColorBumpers": ["Yes"],
-    "BodyKit": ["No"],
-    "RubStrips": ["Black"]
+    "BodyKit": ["Cladding - Black/Grey"],
+    "RubStrips": ["No"]
   },
   "Lighting": {
     "DaytimeRunningLights": ["No"],
     "AmbientInteriorLighting": ["No"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Yes"],
+    "FogLights": ["No"],
     "HeadLights": ["Halogen"],
     "AutomaticHeadLamps": ["No"],
     "FollowmeHomeLamps": ["No"],
     "TailLight": ["Halogen"],
     "CabinLamps": ["Front"],
-    "HeadLightHeightAdjuster": ["Yes"],
+    "HeadLightHeightAdjuster": ["No"],
     "GloveBoxLamp": ["No"],
     "LightsonVanityMirrors": ["No"],
     "RearReadingLamps": ["No"],
     "COrneringHeadLights": ["No"]
   },
   "Instrumentation": {
-    "InstrumentCluster": ["Analogue and Digital"],
+    "InstrumentCluster": ["Digital"],
     "TripMeter": ["Electronic 2 trips"],
     "AverageFuelConsumption": ["Yes"],
     "AverageSpeed": ["No"],
     "DistanceToEmpty": ["Yes"],
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
-    "DoorAjarWarning": ["No"],
+    "DoorAjarWarning": ["Yes"],
     "AdjustableClusterBrightness": ["No"],
-    "GearIndicator": ["No"],
+    "GearIndicator": ["Yes"],
     "ShiftIndicator": ["No"],
     "TachoMeter": ["No"],
-    "InstantaneousConsumption": ["No"]
+    "InstantaneousConsumption": ["Yes"]
   },
   "EntertainmentInfoandCommunication": {
     "WirelessCharger": ["No"],
@@ -160,13 +160,21 @@
     "USBCampatibility": ["Yes"],
     "AUXCompatibility": ["Yes"],
     "BluetoothCompatibility": ["Yes"],
-    "SteeringMountedControls": ["No"],
-    "VoiceCommand": ["No"],
+    "SteeringMountedControls": ["Yes"],
+    "VoiceCommand": ["Yes"],
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
     "WarrantyYears": ["2"],
     "WarrantyKilometers": ["40000"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Future-S/6166/1569405133474/front-left-side-47.jpg?tr=w-456"
+    ],
+    "OnlyName": ["S-Presso"],
+    "CarFullName": ["MarutiSuzuki S-Presso"],
+    "Price": ["₹ 3.77 Lakh Onwards"]
   }
 }

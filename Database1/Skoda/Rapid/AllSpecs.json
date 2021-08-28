@@ -1,36 +1,40 @@
 {
   "EngineTransmission": {
-    "Engine": ["796 cc"],
-    "EngineType": ["F8D"],
+    "Engine": ["999 cc, 3 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["1.0 TSI"],
     "FuelType": ["Petrol"],
-    "MaxPower": ["47 bhp @ 6000 rpm"],
-    "MaxTorque": ["69 Nm @ 3500 rpm"],
-    "Mileage": ["22.05 kmpl"],
+    "MaxPower": ["109 bhp @ 5000 rpm"],
+    "MaxTorque": ["175 Nm @ 1750 rpm"],
+    "Mileage": ["16.24 kmpl"],
     "Drivetrain": ["FWD"],
-    "Transmission": ["Manual - 5 Gears"],
+    "Transmission": [
+      "Automatic (Dual Clutch) - 7 Gears, Manual Override & Paddle Shift, Sport Mode"
+    ],
     "EmissionStandard": ["BS 6"]
   },
   "DimensionWeight": {
-    "Length": ["3445 mm"],
-    "Width": ["1515 mm"],
-    "Height": ["1475 mm"],
-    "Wheelbase": ["2360 mm"],
-    "GroundClearance": ["160 mm"]
+    "Length": ["4413 mm"],
+    "Width": ["1699 mm"],
+    "Height": ["1466 mm"],
+    "Wheelbase": ["2552 mm"],
+    "GroundClearance": ["116 mm"]
   },
   "SuspensionBrakeSteering": {
-    "FrontSuspension": ["Mac Pherson Strut"],
-    "RearSuspension": ["3-Link Rigid Axle Suspension"],
+    "FrontSuspension": [
+      "McPherson suspension with lower triangular links and torsion stabiliser"
+    ],
+    "RearSuspension": ["Compound link crank-axle"],
     "FrontBrake": ["Disc"],
     "RearBrake": ["Drum"],
-    "MinimumTurningRadius": ["4.6 metres"],
+    "MinimumTurningRadius": ["5.3 meters"],
     "SteeringType": ["Power assisted (Electric)"],
-    "Wheels": ["Steel Rims"],
+    "Wheels": ["Alloy Wheels"],
     "SpareWheel": ["Steel"],
-    "TyreSize": ["145 / 80 R12"]
+    "TyreSize": ["195 / 55 R16"]
   },
   "Safety": {
-    "NCAPRating": ["Not Tested"],
-    "Airbags": ["2 Airbags (Driver, Passenger)"],
+    "NCAPRating": ["4 Star (Global NCAP)"],
+    "Airbags": ["2 Airbags (Driver, Front Passenger)"],
     "MiddleRearSeatbelt": ["No"],
     "MiddleRearHeadrest": ["No"],
     "TyrePressureMoni": ["No"],
@@ -41,74 +45,74 @@
     "AntiLockBreaking": ["Yes"],
     "ElectricBrakeDistri": ["Yes"],
     "BrakeAssist": ["Yes"],
-    "ElectricStabilityProgram": ["No"],
-    "HillHoldControl": ["No"],
-    "TractionControlSys": ["No"],
+    "ElectricStabilityProgram": ["Yes"],
+    "HillHoldControl": ["Yes"],
+    "TractionControlSys": ["Yes"],
     "HillDescentControl": ["No"]
   },
   "LocksAndSecurity": {
     "EngineImmobilizer": ["Yes"],
-    "CentralLocking": ["Remote"],
-    "SpeedSensingDoorLock": ["No"],
+    "CentralLocking": ["Remote with Boot Opener"],
+    "SpeedSensingDoorLock": ["Yes"],
     "ChildSafetyLock": ["Yes"]
   },
   "ConfortAndCOnvenience": {
-    "AirConditioner": ["Yes (Manual)"],
+    "AirConditioner": ["Yes (Automatic)"],
     "FrontAC": ["Single Zone, Common Fan Speed Control"],
-    "RearAC": ["No"],
+    "RearAC": ["Blower, Vents Behind Front Armrest"],
     "Heater": ["Yes"],
-    "VanityMirror": ["No"],
-    "CabinBootAccess": ["Yes"],
-    "AntiGlareMirrors": ["No"],
-    "ParkingAssist": ["No"],
+    "VanityMirror": ["Co-Driver"],
+    "CabinBootAccess": ["No"],
+    "AntiGlareMirrors": ["Electronic - Internal Only"],
+    "ParkingAssist": ["Reverse Camera"],
     "ParkingSensors": ["Rear"],
-    "CruiseCOntrol": ["No"],
+    "CruiseCOntrol": ["Yes"],
     "HeadLightIgnitionONReminder": ["Yes"],
     "KeylessStartStopButton": ["No"],
-    "SteeringAdjustment": ["No"],
-    "twelveVPowerOutlets": ["Yes"]
+    "SteeringAdjustment": ["Manual Tilt & Telescopic"],
+    "twelveVPowerOutlets": ["2"]
   },
   "SeatsAndUpholstery": {
     "DriverSeatAdjustment": [
-      "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
+      "8 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down, seat height up / down)"
     ],
     "FrontPassengerSeatAdjustment": [
-      "4 way manually adjustable (seat forward / back, backrest tilt forward / back)"
+      "6 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down)"
     ],
-    "RearRowSeatAdjustment": ["No"],
-    "SeatUpholstery": ["Vinyl + Fabric"],
-    "LeatherWrappedSteeringwheel": ["No"],
-    "LeatherWrappedGearKnob": ["No"],
-    "DriverArmrest": ["No"],
+    "RearRowSeatAdjustment": ["2 way manually adjustable (headrest up / down)"],
+    "SeatUpholstery": ["Leather"],
+    "LeatherWrappedSteeringwheel": ["Yes"],
+    "LeatherWrappedGearKnob": ["Yes"],
+    "DriverArmrest": ["Yes"],
     "RearPassengerSeatsType": ["Bench"],
     "VentilatedSeats": ["No"],
-    "InteriorColors": ["Black and Beige"],
-    "RearArmrest": ["No"],
-    "FoldingRearSeat": ["Full"],
+    "InteriorColors": ["Black"],
+    "RearArmrest": ["Yes"],
+    "FoldingRearSeat": ["No"],
     "SplitRearSeat": ["No"],
     "FrontSeatbackPockets": ["Yes"],
-    "HeadRest": ["Front and Rear"]
+    "HeadRest": ["Front & Rear"]
   },
   "Storage": {
-    "CupHolders": ["Front and Rear"],
-    "DriverArmrestStorage": ["No"],
-    "CooledGloveBox": ["No"],
+    "CupHolders": ["Front & Rear"],
+    "DriverArmrestStorage": ["Yes"],
+    "CooledGloveBox": ["Yes"],
     "SunglassHOlder": ["No"]
   },
   "DoorsWindowsMirrorsWipers": {
-    "PowerWindows": ["Front Only"],
-    "OneTouchDown": ["No"],
-    "OneTouchUp": ["No"],
-    "AdjustableORVM": ["Internally Adjustable"],
-    "TurnIndicatorsonORVM": ["No"],
-    "RearDefogger": ["No"],
+    "PowerWindows": ["Front & Rear"],
+    "OneTouchDown": ["All"],
+    "OneTouchUp": ["All"],
+    "AdjustableORVM": ["Electrical Adjustable"],
+    "TurnIndicatorsonORVM": ["Yes"],
+    "RearDefogger": ["Yes"],
     "RearWiper": ["No"],
     "ExteriorDoorHandles": ["Body Coloured"],
-    "RainSensingWipers": ["No"],
-    "InteriorDoorHandles": ["Silver"],
-    "DoorPockets": ["Front"],
+    "RainSensingWipers": ["Yes"],
+    "InteriorDoorHandles": ["Chrome"],
+    "DoorPockets": ["Front & Rear"],
     "SideWindowBlinds": ["No"],
-    "BootLidOpener": ["Internal with Remote"],
+    "BootLidOpener": ["Electric Tailgate Release"],
     "OutsideRearViewMirrors": ["Body Coloured"]
   },
   "Exterior": {
@@ -116,38 +120,38 @@
     "RoofMountedAntenna": ["Yes"],
     "BodyColorBumpers": ["Yes"],
     "BodyKit": ["No"],
-    "RubStrips": ["Black"]
+    "RubStrips": ["No"]
   },
   "Lighting": {
-    "DaytimeRunningLights": ["No"],
-    "AmbientInteriorLighting": ["No"],
+    "DaytimeRunningLights": ["Yes"],
+    "AmbientInteriorLighting": ["Yes"],
     "PuddleLamps": ["No"],
-    "FogLights": ["Yes"],
-    "HeadLights": ["Halogen"],
-    "AutomaticHeadLamps": ["No"],
+    "FogLights": ["Halogen"],
+    "HeadLights": ["Projector with Xenon"],
+    "AutomaticHeadLamps": ["Yes"],
     "FollowmeHomeLamps": ["No"],
     "TailLight": ["Halogen"],
-    "CabinLamps": ["Front"],
+    "CabinLamps": ["Centre"],
     "HeadLightHeightAdjuster": ["Yes"],
     "GloveBoxLamp": ["No"],
     "LightsonVanityMirrors": ["No"],
-    "RearReadingLamps": ["No"],
-    "COrneringHeadLights": ["No"]
+    "RearReadingLamps": ["Yes"],
+    "COrneringHeadLights": ["Passive"]
   },
   "Instrumentation": {
     "InstrumentCluster": ["Analogue and Digital"],
     "TripMeter": ["Electronic 2 trips"],
     "AverageFuelConsumption": ["Yes"],
-    "AverageSpeed": ["No"],
+    "AverageSpeed": ["Yes"],
     "DistanceToEmpty": ["Yes"],
     "Clock": ["Digital"],
     "LowFuelLevelWarning": ["Yes"],
-    "DoorAjarWarning": ["No"],
-    "AdjustableClusterBrightness": ["No"],
-    "GearIndicator": ["No"],
-    "ShiftIndicator": ["No"],
-    "TachoMeter": ["No"],
-    "InstantaneousConsumption": ["No"]
+    "DoorAjarWarning": ["Yes"],
+    "AdjustableClusterBrightness": ["Yes"],
+    "GearIndicator": ["Yes"],
+    "ShiftIndicator": ["Dynamic"],
+    "TachoMeter": ["Analogue"],
+    "InstantaneousConsumption": ["Yes"]
   },
   "EntertainmentInfoandCommunication": {
     "WirelessCharger": ["No"],
@@ -156,17 +160,25 @@
     "IntegratedMusicSystem": ["Yes"],
     "Display": ["TouchScreen"],
     "GPSNavigationSystem": ["Yes"],
-    "Speakers": ["2"],
+    "Speakers": ["6"],
     "USBCampatibility": ["Yes"],
     "AUXCompatibility": ["Yes"],
     "BluetoothCompatibility": ["Yes"],
-    "SteeringMountedControls": ["No"],
+    "SteeringMountedControls": ["Yes"],
     "VoiceCommand": ["No"],
     "CDPlayer": ["No"]
   },
   "ManufacturerWarranty": {
-    "WarrantyYears": ["2"],
-    "WarrantyKilometers": ["40000"],
+    "WarrantyYears": ["4"],
+    "WarrantyKilometers": ["Unlimited"],
     "ExtendedWarranty": ["-"]
+  },
+  "CarInfo": {
+    "TopPic": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/skoda-rapid-tsi-right-front-three-quarter0.jpeg?q=85"
+    ],
+    "OnlyName": ["Rapid"],
+    "CarFullName": ["Skoda Rapid"],
+    "Price": ["₹ 7.80 Lakh Onwards"]
   }
 }
