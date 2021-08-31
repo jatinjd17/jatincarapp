@@ -42,7 +42,7 @@ var celeriox = require("./Database1/MarutiSuzuki/CelerioX/AllSpecs.json");
 var ciaz = require("./Database1/MarutiSuzuki/Ciaz/AllSpecs.json");
 var dzire = require("./Database1/MarutiSuzuki/Dzire/AllSpecs.json");
 var dziretour = require("./Database1/MarutiSuzuki/DzireTour/AllSpecs.json");
-var eco = require("./Database1/MarutiSuzuki/Eco/AllSpecs.json");
+var eeco = require("./Database1/MarutiSuzuki/Eco/AllSpecs.json");
 var ertiga = require("./Database1/MarutiSuzuki/Ertiga/AllSpecs.json");
 var ignis = require("./Database1/MarutiSuzuki/Ignis/AllSpecs.json");
 var scross = require("./Database1/MarutiSuzuki/Scross/AllSpecs.json");
@@ -136,7 +136,7 @@ module.exports = function () {
     ciaz: ciaz,
     dzire: dzire,
     dziretour: dziretour,
-    eco: eco,
+    eeco: eeco,
     ertiga: ertiga,
     ignis: ignis,
     scross: scross,
