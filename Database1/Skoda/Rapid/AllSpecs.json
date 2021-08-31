@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47562/skoda-rapid-tsi-right-front-three-quarter0.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/18Lht2z/rapid.webp"],
     "OnlyName": ["Rapid"],
     "CarFullName": ["Skoda Rapid"],
     "Price": ["₹ 7.80 Lakh Onwards"]

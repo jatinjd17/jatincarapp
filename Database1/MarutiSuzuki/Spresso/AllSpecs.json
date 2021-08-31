@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Future-S/6166/1569405133474/front-left-side-47.jpg?tr=w-456"
-    ],
+    "TopPic": ["https://i.ibb.co/Vg8KpmR/spresso.png"],
     "OnlyName": ["S-Presso"],
     "CarFullName": ["MarutiSuzuki S-Presso"],
     "Price": ["₹ 3.77 Lakh Onwards"]

@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https%3A%2F%2Fcdni.autocarindia.com%2FGalleries%2F20180420105800_2018-Suzuki-Ertiga-fronw.jpg&h=578&w=872&c=1"
-    ],
+    "TopPic": ["https://i.ibb.co/kmNxFNT/ertiga.png"],
     "OnlyName": ["Ertiga"],
     "CarFullName": ["MarutiSuzuki Ertiga"],
     "Price": ["₹ 7.78 Lakh Onwards"]

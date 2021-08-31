@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/45732/wr-v-exterior-right-front-three-quarter.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/MCRwCk8/wrv.webp"],
     "OnlyName": ["WRV"],
     "CarFullName": ["Honda WRV"],
     "Price": ["₹ 8.90 Lakh Onwards"]

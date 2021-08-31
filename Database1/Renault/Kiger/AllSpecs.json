@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/44407/kiger-exterior-right-front-three-quarter-12.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/RBS8z0x/kiger.webp"],
     "OnlyName": ["Kiger"],
     "CarFullName": ["Renault Kiger"],
     "Price": ["₹ 5.64 Lakh Onwards"]

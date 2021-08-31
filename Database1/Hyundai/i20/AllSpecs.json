@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/40530/i20-exterior-right-front-three-quarter-5.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/4JwFLqv/i20.png"],
     "OnlyName": ["i20"],
     "CarFullName": ["Hyundai i20"],
     "Price": ["₹ 6.91 Lakh Onwards"]

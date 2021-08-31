@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Duster/7704/1598257607089/front-left-side-47.jpg?tr=w-456"
-    ],
+    "TopPic": ["https://i.ibb.co/hyPQ4rf/duster.webp"],
     "OnlyName": ["Duster"],
     "CarFullName": ["Renault Duster"],
     "Price": ["₹ 9.84 Lakh Onwards"]

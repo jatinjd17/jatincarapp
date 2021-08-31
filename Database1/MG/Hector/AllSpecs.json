@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/mG0R6zc/hector.webp"],
     "OnlyName": ["Hector"],
     "CarFullName": ["MG Hector"],
     "Price": ["₹ 13.18 Lakh Onwards"]

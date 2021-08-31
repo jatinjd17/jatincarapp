@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47016/urban-cruiser-exterior-right-front-three-quarter.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/sqXk5XM/urbancruiser.jpg"],
     "OnlyName": ["Urban Cruiser"],
     "CarFullName": ["Toyota Urban Cruiser"],
     "Price": ["₹ 8.63 Lakh Onwards"]

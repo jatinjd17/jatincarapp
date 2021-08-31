@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41217/toyota-vellfire-right-front-three-quarter5.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/c86Y9D6/vellfire.webp"],
     "OnlyName": ["Vellfire"],
     "CarFullName": ["Toyota Vellfire"],
     "Price": ["₹ 89.89 Lakh Onwards"]

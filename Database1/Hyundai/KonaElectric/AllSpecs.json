@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/29580/Hyundai-Kona-Electric-Right-Front-Three-Quarter-162185.jpg?wm=0&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/y4GqxvP/kona.jpg"],
     "OnlyName": ["Kona Electric"],
     "CarFullName": ["Hyundai Kona Electric"],
     "Price": ["₹ 23.79 Lakh Onwards"]

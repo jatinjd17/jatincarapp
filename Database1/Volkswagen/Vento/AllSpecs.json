@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/26563/Volkswagen-Vento-Right-Front-Three-Quarter-169094.jpg?wm=0&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/vL7V4GK/Vento.webp"],
     "OnlyName": ["Vento"],
     "CarFullName": ["Volkswagen Vento"],
     "Price": ["₹ 6.21 Lakh Onwards"]

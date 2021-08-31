@@ -176,9 +176,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/20361/Nissan-GTR-Right-Front-Three-Quarter-84895.jpg?v=201711021421&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/tPMZCrQ/gtr.webp"],
     "OnlyName": ["GTR"],
     "CarFullName": ["Nissan GTR"],
     "Price": ["₹ 2.12 Crore"]

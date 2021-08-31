@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/41043/Maruti-Suzuki-XL6-Exterior-165499.jpg?wm=0&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/7RDbvwM/xl6.webp"],
     "OnlyName": ["XL6"],
     "CarFullName": ["MarutiSuzuki XL6"],
     "Price": ["₹ 9.92 Lakh Onwards"]

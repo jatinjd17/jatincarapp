@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Eeco/7346/1581669301115/front-left-side-47.jpg?tr=w-456"
-    ],
+    "TopPic": ["https://i.ibb.co/8rvF9gF/eeco.jpg"],
     "OnlyName": ["Eeco"],
     "CarFullName": ["MarutiSuzuki Eeco"],
     "Price": ["₹ 4.08 Lakh Onwards"]

@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tata-tigor-right-front-three-quarter3.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/1sShWH4/tigor.webp"],
     "OnlyName": ["Tigor"],
     "CarFullName": ["Tata Tigor"],
     "Price": ["₹ 5.65 Lakh Onwards"]

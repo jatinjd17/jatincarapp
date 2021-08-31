@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/40535/all-new-city-exterior-right-front-three-quarter.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/Hh88FrP/city.webp"],
     "OnlyName": ["City"],
     "CarFullName": ["Honda City"],
     "Price": ["₹ 11.19 Lakh Onwards"]

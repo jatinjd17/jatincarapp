@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/32943/yaris-exterior-right-front-three-quarter-2.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/jRXJQnq/yaris.png"],
     "OnlyName": ["Yaris"],
     "CarFullName": ["Toyota Yaris"],
     "Price": ["₹ 9.17 Lakh Onwards"]

@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://static.autox.com/uploads/2020/08/maruti-suzuki-ignis-bs6-500x261.jpg"
-    ],
+    "TopPic": ["https://i.ibb.co/CJ4tHRN/ignis.jpg"],
     "OnlyName": ["Ignis"],
     "CarFullName": ["MarutiSuzuki Ignis"],
     "Price": ["₹ 4.95 Lakh Onwards"]

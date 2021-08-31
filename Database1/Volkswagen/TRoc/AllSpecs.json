@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/55747/t-roc-exterior-right-front-three-quarter-3.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/2d5ctRC/troc.webp"],
     "OnlyName": ["TRoc"],
     "CarFullName": ["Volkswagen TRoc"],
     "Price": ["₹ 21.35 Lakh Onwards"]

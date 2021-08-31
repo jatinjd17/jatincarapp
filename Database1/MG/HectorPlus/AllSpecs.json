@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Hector-Plus/7909/1594206680276/front-left-side-47.jpg?tr=w-456"
-    ],
+    "TopPic": ["https://i.ibb.co/4SL39CB/hectorplus.webp"],
     "OnlyName": ["Hector Plus"],
     "CarFullName": ["MG Hector Plus"],
     "Price": ["₹ 13.63 Lakh Onwards"]

@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/JQvngRS/aura.png"],
     "OnlyName": ["Aura"],
     "CarFullName": ["Hyundai Aura"],
     "Price": ["₹ 6.00 Lakh Onwards"]

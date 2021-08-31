@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/1280x720/cw/ec/31393/Maruti-Suzuki-Celerio-X-Right-Front-Three-Quarter-153971.jpg?wm=0&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/Jsc48QQ/celeriox.png"],
     "OnlyName": ["Celerio X"],
     "CarFullName": ["MarutiSuzuki Celerio X"],
     "Price": ["₹ 5.12 Lakh Onwards"]

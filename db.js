@@ -71,6 +71,7 @@ var nexon = require("./Database1/Tata/Nexon/AllSpecs.json");
 var nexonev = require("./Database1/Tata/NexonEV/AllSpecs.json");
 var safari = require("./Database1/Tata/Safari/AllSpecs.json");
 var tiago = require("./Database1/Tata/Tiago/AllSpecs.json");
+var tiagoNRG = require("./Database1/Tata/TiagoNRG/AllSpecs.json");
 var tigor = require("./Database1/Tata/Tigor/AllSpecs.json");
 var tigorev = require("./Database1/Tata/TigorEV/AllSpecs.json");
 var yodha = require("./Database1/Tata/Yodha/AllSpecs.json");
@@ -164,6 +165,7 @@ module.exports = function () {
     nexonev: nexonev,
     safari: safari,
     tiago: tiago,
+    tiagoNRG: tiagoNRG,
     tigor: tigor,
     tigorev: tigorev,
     yodha: yodha,

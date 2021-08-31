@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/37561/Toyota-Camry-Right-Front-Three-Quarter-146683.jpg?wm=0&q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/1qsD8YK/camry.jpg"],
     "OnlyName": ["Camry"],
     "CarFullName": ["Toyota Camry"],
     "Price": ["₹ 40.61 Lakh Onwards"]

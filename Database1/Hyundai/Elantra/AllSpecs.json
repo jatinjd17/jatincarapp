@@ -176,9 +176,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41138/elantra-exterior-right-front-three-quarter-3.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/v1T0WfH/elantra.png"],
     "OnlyName": ["Elantra"],
     "CarFullName": ["Hyundai Elantra"],
     "Price": ["₹ 17.86 Lakh Onwards"]
