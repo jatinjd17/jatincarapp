@@ -173,8 +173,8 @@
   },
   "CarInfo": {
     "TopPic": ["https://i.ibb.co/ygV7Bd8/Freestyle-jpg.png"],
-    "OnlyName": ["Aspire"],
-    "CarFullName": ["Ford Aspire"],
+    "OnlyName": ["Freestyle"],
+    "CarFullName": ["Ford Freestyle"],
     "Price": ["₹ 7.28 Lakh"]
   }
 }
