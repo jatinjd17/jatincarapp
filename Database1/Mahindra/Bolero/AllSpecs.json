@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/45933/mahindra-bolero-right-front-three-quarter1.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/mRnRdDg/mahindra-bolero.webp"],
     "OnlyName": ["Bolero"],
     "CarFullName": ["Mahindra Bolero"],
     "Price": ["₹ 8.64 Lakh"]

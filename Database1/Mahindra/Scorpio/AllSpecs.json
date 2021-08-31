@@ -170,9 +170,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/31883/scorpio-exterior-right-front-three-quarter-2.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/rsXJVdx/scorpio.png"],
     "OnlyName": ["Scorpio"],
     "CarFullName": ["Mahindra Scorpio"],
     "Price": ["₹ 12.66 Lakh"]

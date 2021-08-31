@@ -172,9 +172,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/49114/marazzo-exterior-right-front-three-quarter-4.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/RYvTKB2/marazzo.png"],
     "OnlyName": ["Marazzo"],
     "CarFullName": ["Mahindra Marazzo"],
     "Price": ["₹ 12.30 Lakh"]

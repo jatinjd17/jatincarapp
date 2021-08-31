@@ -174,9 +174,7 @@
     "ExtendedWarranty": ["-"]
   },
   "CarInfo": {
-    "TopPic": [
-      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41205/kia-carnival-right-front-three-quarter8.jpeg?q=85"
-    ],
+    "TopPic": ["https://i.ibb.co/tx5CFry/carnival.webp"],
     "OnlyName": ["Carnival"],
     "CarFullName": ["Kia Carnival"],
     "Price": ["₹ 24.95 Lakh Onwards"]
