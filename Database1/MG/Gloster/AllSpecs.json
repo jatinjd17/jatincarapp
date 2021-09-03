@@ -362,11 +362,11 @@
   },
   "CarInfo": {
     "CompanyName": "MG",
-    "CarName": "MG Floaster",
-    "OnlyName": ["Floaster"],
+    "CarName": "MG Gloster",
+    "OnlyName": ["Gloster"],
     "Price": ["₹ 29.98 Lakh"],
     "TopPic": ["https://i.ibb.co/VJjPByS/gloster.webp"],
     "ThumPic": "https://i.ibb.co/PzDDHD5/gloster1630474668.jpg",
-    "CarFullName": ["MG Floaster"]
+    "CarFullName": ["MG Gloster"]
   }
 }
