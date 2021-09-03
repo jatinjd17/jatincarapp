@@ -169,10 +169,215 @@
     "WarrantyKilometers": ["100000"],
     "ExtendedWarranty": ["-"]
   },
+  "KeySpecification": [
+    "₹ 8.63 Lakh onwards",
+    "17.03 to 18.76 kmpl",
+    "1462 cc",
+    "Manual & Automatic (Torque Converter)",
+    "Petrol",
+    "5 Seater",
+    "3,995 mm L x 1,790 mm W x 1,640 mm H"
+  ],
+  "SafetyFeatures": [
+    "Seat Belt Warning",
+    "Anti-Lock Braking System",
+    "2 Airbags",
+    "EBD",
+    "Speed Alert",
+    "Driver frontal airbag, Front passenger frontal airbag",
+    "Door Ajar Warning."
+  ],
+  "VarientPetrol": {
+    "varient1": ["Mid", "1462 cc, Manual, Petrol, 17.03 kmpl", "Rs.8.62 Lakh*"],
+    "varient2": [
+      "High",
+      "1462 cc, Manual, Petrol, 17.03 kmpl",
+      "Rs.9.37 Lakh*"
+    ],
+    "varient3": [
+      "Premium",
+      "1462 cc, Manual, Petrol, 17.03 kmpl",
+      "Rs.9.90 Lakh*"
+    ],
+    "varient4": [
+      "Mid AT",
+      "1462 cc, Manual, Petrol, 18.76 kmpl",
+      "Rs.9.92 Lakh*"
+    ],
+    "varient5": [
+      "High AT",
+      "1462 cc, Automatic, Petrol, 18.76 kmpl",
+      "Rs.10.77 Lakh*"
+    ],
+    "varient6": [
+      "Premium AT",
+      "1462 cc, Automatic, Petrol, 18.76 kmpl",
+      "Rs.11.40 Lakh*"
+    ]
+  },
+  "VarientDiesel": {},
+  "VarientCNG": {},
+
+  "Mileage": {
+    "mileage1": ["Petrol (1197 cc)", "Manual", "23.26 kmpl"],
+    "mileage2": ["CNG (796 cc)", "Manual", "31.59 km/kg"]
+  },
+
+  "LatestUpdate": [
+    "Latest Update: Prices of the Urban Cruiser have been increased by up to Rs 13,000. Toyota Urban Cruiser Price: The Toyota SUV is priced between Rs 8.62 lakh and Rs 11.40 lakh (ex-showroom Delhi). Toyota Urban Cruiser Variants: The Urban Cruiser is available in six variants: Mid, Mid AT, High, High AT, Premium, and Premium AT. Toyota Urban Cruiser Seating Capacity: The SUV has a 5-seater layout. Toyota Urban Cruiser Powertrain: It gets a 1.5-litre petrol engine (paired with either a 5-speed manual or a 4-speed torque converter) that produces 105PS and 138Nm. It is the same engine that powers the Maruti Suzuki Vitara Brezza. The torque converter gearbox is optional across all variants and comes with the mild-hybrid system. Toyota Urban Cruiser Features: The Urban Cruiser packs rain-sensing wipers, auto AC, a 7-inch touchscreen infotainment system with Android Auto and Apple CarPlay, 16-inch dual-tone alloy wheels, push-button start/stop, and LED headlamps and tail lamps. Toyota Urban Cruiser Safety: Safety features on offer include dual front airbags, ABS with EBD, hill hold control, and ISOFIX child seat anchors. Toyota Urban Cruiser Rivals: It goes up against the Hyundai Venue, Nissan Magnite, Maruti Suzuki Vitara Brezza, Kia Sonet, Mahindra XUV300, Ford EcoSport, Tata Nexon, and Renault Kiger."
+  ],
+
+  "ProsCons": {
+    "pros": [
+      "Toyota’s after-sales and service reliability ",
+      "Decently spacious and well-built cabin",
+      "Light and easy driving dynamics"
+    ],
+    "cons": [
+      "Subtle looking compared to the competition",
+      "No diesel powertrain ",
+      "Not as feature-loaded as rivals"
+    ]
+  },
+  "Colorss": {
+    "color1": ["Suave Silver", "bg-gray-800"],
+    "color2": ["Groovy Orange", "bg-red-900"],
+    "color3": ["Iconic Grey", "bg-white-900"],
+    "color4": ["Spunky Blue", "bg-gray-100"],
+    "color5": ["Sunny White", "bg-gray-900"],
+    "color6": ["Groovy Orange with Sunny White Roof", "bg-gray-600"],
+    "color7": ["Spunky Blue with Sizzling Black Roof", "bg-gray-600"],
+    "color8": ["Rustic Brown with Sizzling Black Roof", "bg-gray-100"]
+  },
+
+  "ComparisionCar": {
+    "comparisioncar1": [
+      "₹ 6.92 Lakh Onwards",
+      "17.52 to 23.4 kmpl",
+      "998 to 1493 cc",
+      "Clutchless Manual & Automatic (Dual Clutch)",
+      "Petrol & Diesel",
+      "5 Seater",
+      "3,995 mm L x 1,770 mm W x 1,590 mm H",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Venue/7931/1626089251600/front-left-side-47.jpg"
+    ],
+    "comparisioncar2": [
+      "₹7.20 Lakh onwards",
+      "16 to 22.4 kmpl",
+      "1199 to 1497 cc",
+      "Manual & AMT",
+      "Petrol & Diesel",
+      "5 Seater",
+      "3993 mm L x 1811 mm W x 1606 mm H, 2498mm WB",
+      "https://img.etimg.com/thumb/msid-77905386,width-640,resizemode-4,imgsize-480363/electric-sunroof.jpg"
+    ]
+  },
+
+  "HighlightedFeatures": {
+    "feature1": [
+      "https://stimg.cardekho.com/images/carinteriorimages/930x620/Maruti/Baleno/6778/1615985207322/interior-image-209.jpg?imwidth=480",
+      "Stylish Interiors",
+      ""
+    ],
+    "feature2": [
+      "https://image.shutterstock.com/image-photo/car-door-lock-knob-children-260nw-1514746379.jpg",
+      "Rear Door Child Lock",
+      ""
+    ],
+    "feature3": [
+      "https://stimg.cardekho.com/images/carinteriorimages/630x420/Maruti/Alto-800/7075/1594805410865/airbags-94.jpg?tr=w-360",
+      "2 Airbags",
+      ""
+    ]
+  },
+  "faqs": {
+    "question1": [
+      "What is the on road price of Urban Cruiser?",
+      "The on-road price of Urban Cruiser in Delhi starts at ‎₹ 9.68 Lakh and goes upto ‎₹ 13.19 Lakh. The on road price is made up of ex-showroom price, RTO registration, road tax and insurance amount."
+    ],
+    "question2": [
+      "Which car is better between Urban Cruiser and Vitara Brezza?",
+      "Urban Cruiser price starts at ₹ 8.63 Lakh ex-showroom and It comes with 1462 cc engine. Whereas Vitara Brezza price starts at ₹ 7.51 Lakh ex-showroom and It comes with 1462 cc engine. Compare the two models to identify the best car for you."
+    ],
+    "question3": [
+      "What is the mileage of Toyota Urban Cruiser?",
+      "The Toyota Urban Cruiser mileage is 17.03 - 18.76 kmpl."
+    ]
+  },
+
+  "articles": {
+    "article1": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article2": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article3": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ]
+  },
+
+  "SimilarCars": {},
+  "ThatBrandCars": {
+    "car1": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/51435/innova-crysta-exterior-right-front-three-quarter-3.jpeg?q=85",
+      "Innova",
+      "₹ 16.82 Lakh onwards"
+    ],
+    "car2": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85",
+      "Fortuner",
+      "₹ 30.36 Lakh onwards"
+    ],
+    "car3": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47016/urban-cruiser-exterior-right-front-three-quarter.jpeg?q=85",
+      "Urban Cruiser",
+      "₹ 8.63 Lakh onwards"
+    ],
+    "car4": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/39545/glanza-exterior-right-front-three-quarter-159523.jpeg?q=85",
+      "Glanza",
+      "₹ 7.34 Lakh onwards"
+    ],
+    "car5": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/32943/yaris-exterior-right-front-three-quarter-2.jpeg?q=85",
+      "Yaris",
+      "₹ 9.17 Lakh onwards"
+    ],
+    "car6": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41217/toyota-vellfire-right-front-three-quarter5.jpeg?q=85",
+      "Vellfire",
+      "₹ 89.89 Lakh onwards"
+    ],
+    "car7": [
+      "https://imgd.aeplcdn.com/664x374/cw/ec/37561/Toyota-Camry-Right-Front-Three-Quarter-146683.jpg?wm=0&q=85",
+      "Camry",
+      "₹ 40.61 Lakh onwards"
+    ]
+  },
+
+  "UpcommingCarBrand": {
+    "car1": [
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Hilux/8445/1622783707227/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      "Hilux",
+      "Rs.18.00 Lakh*"
+    ],
+    "car2": [
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Land-Cruiser/8448/1623313668941/front-left-side-47.jpg?tr=w-456",
+      "Land Cruiser",
+      "Rs.1.50 Cr*"
+    ]
+  },
   "CarInfo": {
+    "CompanyName": "Toyota",
+    "CarName": "Toyota UrbanCruiser",
+    "OnlyName": ["UrbanCruiser"],
+    "Price": ["₹ 8.63 Lakh"],
     "TopPic": ["https://i.ibb.co/sqXk5XM/urbancruiser.jpg"],
-    "OnlyName": ["Urban Cruiser"],
-    "CarFullName": ["Toyota Urban Cruiser"],
-    "Price": ["₹ 8.63 Lakh Onwards"]
+    "ThumPic": "https://i.ibb.co/rsLSWr6/urbancruiser1630474669.jpg",
+    "CarFullName": ["Toyota UrbanCruiser"]
   }
 }
