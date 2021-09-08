@@ -86,6 +86,7 @@ var polo = require("./Database1/Volkswagen/Polo/AllSpecs.json");
 var tiguan = require("./Database1/Volkswagen/TigualAllSpace/AllSpecs.json");
 var troc = require("./Database1/Volkswagen/TRoc/AllSpecs.json");
 var vento = require("./Database1/Volkswagen/Vento/AllSpecs.json");
+var ford = require("./Database1/Ford/fordallcars.json");
 // and so on
 
 module.exports = function () {
@@ -96,6 +97,7 @@ module.exports = function () {
     endeavour: endeavour,
     figo: figo,
     freestyle: freestyle,
+    ford: ford,
     /////////Honda
     amaze: amaze,
     city: city,

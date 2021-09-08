@@ -1,0 +1,384 @@
+{
+  "EngineTransmission": {
+    "TopSpeed": "-",
+    "0-100": "5.5 Seconds",
+    "Engine": ["2998 cc, 6 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "EngineType": ["N55 Turbocharged I6"],
+    "FuelType": ["Petrol"],
+    "MaxPower": ["335 bhp @ 5500 rpm"],
+    "MaxTorque": ["450 Nm @ 1500 rpm"],
+    "Mileage": ["10.31 kmpl"],
+    "Drivetrain": ["AWD"],
+    "Transmission": [
+      "Automatic (Torque Converter) - 8 Gears, Manual Override & Paddle Shift, Sport Mode"
+    ],
+    "EmissionStandard": ["BS 6"]
+  },
+  "DimensionWeight": {
+    "Length": ["4935 mm"],
+    "Width": ["2004 mm"],
+    "Height": ["1696 mm"],
+    "Wheelbase": ["2975 mm"],
+    "GroundClearance": ["216 mm"],
+    "Weight": "2130 kg"
+  },
+  "Capacity": {
+    "Doors": "5 Doors",
+    "Bootspace": "580 litres",
+    "Fuel Tank Capacity": "83 litres"
+  },
+  "SuspensionBrakeSteering": {
+    "FrontSuspension": ["Double-wishbone Axle with Adaptive Damping"],
+    "RearSuspension": ["Five-link Axle with Adaptive Damping"],
+    "FrontBrake": ["Ventilated Disc"],
+    "RearBrake": ["Ventilated Disc"],
+    "MinimumTurningRadius": ["6.3 m"],
+    "SteeringType": ["Power assisted (Electric)"],
+    "Wheels": ["Alloy Wheels"],
+    "SpareWheel": ["Space Saver"],
+    "TyreSize": ["305 / 40 R20"]
+  },
+  "Safety": {
+    "NCAPRating": ["5 Star (Euro NCAP)"],
+    "Airbags": [
+      "6 Airbags (Driver, Passenger, 2 Curtain, Driver Side, Front Passenger Side)"
+    ],
+    "MiddleRearSeatbelt": ["Yes"],
+    "MiddleRearHeadrest": ["Yes"],
+    "TyrePressureMoni": ["Yes"],
+    "ChildSeatAnchor": ["Yes"],
+    "SeatBeltWarning": ["Yes"]
+  },
+  "BreakindAndTraction": {
+    "AntiLockBreaking": ["Yes"],
+    "ElectricBrakeDistri": ["Yes"],
+    "BrakeAssist": ["Yes"],
+    "ElectricStabilityProgram": ["Yes"],
+    "Four Wheel Drive": "Torque-On-Demand",
+    "HillHoldControl": ["Yes"],
+    "TractionControlSys": ["Yes"],
+    "HillDescentControl": ["Yes"],
+    "Differential Lock": "Electronic"
+  },
+  "LocksAndSecurity": {
+    "EngineImmobilizer": ["Yes"],
+    "CentralLocking": ["Keyless"],
+    "SpeedSensingDoorLock": ["Yes"],
+    "ChildSafetyLock": ["Yes"]
+  },
+  "ConfortAndCOnvenience": {
+    "AirConditioner": ["Yes (Automatic)"],
+    "FrontAC": ["Two Zone, Individual Fan Speed Control"],
+    "RearAC": [
+      "Separate Zone, Vents Behind Front Armrest, Common Fan Speed Control"
+    ],
+    "Heater": ["Yes"],
+    "VanityMirror": ["Driver & Co-Driver"],
+    "CabinBootAccess": ["Yes"],
+    "AntiGlareMirrors": ["Electronic - All"],
+    "ParkingAssist": ["Reverse Camera"],
+    "ParkingSensors": ["Rear"],
+    "CruiseCOntrol": ["Yes"],
+    "HeadLightIgnitionONReminder": ["Yes"],
+    "KeylessStartStopButton": ["Yes"],
+    "SteeringAdjustment": ["Tilt & Telescopic"],
+    "twelveVPowerOutlets": ["Yes"]
+  },
+  "SeatsAndUpholstery": {
+    "DriverSeatAdjustment": [
+      "8 way electrically adjustable with 2 memory presets (seat forward / back, backrest tilt forward / back, seat height up / down, seat base angle up / down) + 2 way manually adjustable (headrest up / down)"
+    ],
+    "FrontPassengerSeatAdjustment": [
+      "8 way electrically adjustable with 2 memory presets (seat forward / back, backrest tilt forward / back, seat height up / down, seat base angle up / down) + 2 way manually adjustable (headrest up / down)"
+    ],
+    "RearRowSeatAdjustment": ["2 way manually adjustable (headrest up / down)"],
+    "SeatUpholstery": ["Leather"],
+    "LeatherWrappedSteeringwheel": ["Yes"],
+    "LeatherWrappedGearKnob": ["Yes"],
+    "DriverArmrest": ["Yes"],
+    "RearPassengerSeatsType": ["Bench"],
+    "VentilatedSeats": ["Front only"],
+    "InteriorColors": [
+      "Tacora Red / Black, Canberra Beige / Black, Coffee / Black, Cognac / Black, Ivory White / Black, Black"
+    ],
+    "RearArmrest": ["Yes"],
+    "FoldingRearSeat": ["Full"],
+    "SplitRearSeat": ["40:20:40 split"],
+    "FrontSeatbackPockets": ["Yes"],
+    "HeadRest": ["Front & Rear"]
+  },
+  "Storage": {
+    "CupHolders": ["Front & Rear"],
+    "DriverArmrestStorage": ["Yes"],
+    "CooledGloveBox": ["No"],
+    "SunglassHOlder": ["No"]
+  },
+  "DoorsWindowsMirrorsWipers": {
+    "PowerWindows": ["Front & Rear"],
+    "OneTouchDown": ["All"],
+    "OneTouchUp": ["All"],
+    "AdjustableORVM": ["Electrical Adjustable"],
+    "TurnIndicatorsonORVM": ["Yes"],
+    "RearDefogger": ["All"],
+    "RearWiper": ["All"],
+    "ExteriorDoorHandles": ["Body Coloured"],
+    "RainSensingWipers": ["Yes"],
+    "InteriorDoorHandles": ["Chrome"],
+    "DoorPockets": ["Front & Rear"],
+    "SideWindowBlinds": ["Rear - electric"],
+    "BootLidOpener": ["Electric Tailgate Release"],
+    "OutsideRearViewMirrors": ["Body Coloured"]
+  },
+  "Exterior": {
+    "Sunroof": ["Panoramic Sunroof"],
+    "RoofMountedAntenna": ["Yes"],
+    "BodyColorBumpers": ["Yes"],
+    "BodyKit": ["Yes"],
+    "RubStrips": ["No"]
+  },
+  "Lighting": {
+    "DaytimeRunningLights": ["Yes"],
+    "AmbientInteriorLighting": ["Multi-colour"],
+    "PuddleLamps": ["Yes"],
+    "FogLights": ["LED"],
+    "HeadLights": ["LED"],
+    "AutomaticHeadLamps": ["Yes"],
+    "FollowmeHomeLamps": ["Yes"],
+    "TailLight": ["LED"],
+    "CabinLamps": ["Front & Rear"],
+    "HeadLightHeightAdjuster": ["Yes"],
+    "GloveBoxLamp": ["No"],
+    "LightsonVanityMirrors": ["Driver & Co-Driver"],
+    "RearReadingLamps": ["No"],
+    "COrneringHeadLights": ["Intelligent"]
+  },
+  "Instrumentation": {
+    "InstrumentCluster": ["Digital"],
+    "TripMeter": ["Electronic 2 trips"],
+    "AverageFuelConsumption": ["Yes"],
+    "AverageSpeed": ["Yes"],
+    "DistanceToEmpty": ["Yes"],
+    "Clock": ["Digital"],
+    "LowFuelLevelWarning": ["Yes"],
+    "DoorAjarWarning": ["Yes"],
+    "AdjustableClusterBrightness": ["Yes"],
+    "GearIndicator": ["Yes"],
+    "ShiftIndicator": ["Yes"],
+    "TachoMeter": ["Digital"],
+    "InstantaneousConsumption": ["Yes"]
+  },
+  "EntertainmentInfoandCommunication": {
+    "WirelessCharger": ["Yes"],
+    "SmartConnectivity": ["Android Auto (Yes), Apple Car Play (Yes)"],
+    "HeadUnitSize": ["-"],
+    "IntegratedMusicSystem": ["Yes"],
+    "Display": ["TouchScreen"],
+    "GPSNavigationSystem": ["Yes"],
+    "Speakers": ["6+"],
+    "USBCampatibility": ["Yes"],
+    "AUXCompatibility": ["Yes"],
+    "BluetoothCompatibility": ["Yes"],
+    "SteeringMountedControls": ["Yes"],
+    "VoiceCommand": ["Yes"],
+    "CDPlayer": ["No"]
+  },
+  "ManufacturerWarranty": {
+    "WarrantyYears": ["2"],
+    "WarrantyKilometers": ["Unlimited"],
+    "ExtendedWarranty": ["-"]
+  },
+  "KeySpecification": [
+    "₹ 29.98 Lakh onwards",
+    "12.35 kmpl",
+    "1996 cc",
+    "Automatic (Torque Converter)",
+    "Diesel",
+    "6 & 7 Seater",
+    "4,985 mm L x 1,926 mm W x 1,867 mm H"
+  ],
+  "SafetyFeatures": [
+    "2+2+2 (with 2nd row captain seats)",
+    "12-Way Power-Adjustable Driver Seat.",
+    "360 Degree Around View Camera.",
+    "Automatic Emergency Braking (AEB)",
+    "Blind Spot Detection (BSD)",
+    "Driver Seat Heating.",
+    "Co-Driver Seat Heating.",
+    "Driver Fatigue Reminder System."
+  ],
+  "VarientPetrol": {},
+  "VarientDiesel": {
+    "varient1": [
+      "Super 7-Str",
+      "1996 cc, Automatic, Diesel, 14.5 kmpl",
+      "Rs.29.98 Lakh*"
+    ],
+    "varient2": [
+      "Smart 6-Str",
+      "1996 cc, Automatic, Diesel, 14.5 kmpl",
+      "Rs.32.38 Lakh*"
+    ],
+    "varient3": [
+      "Sharp 7-Str",
+      "1996 cc, Automatic, Diesel, 12.4 kmpl",
+      "Rs.35.78 Lakh*"
+    ],
+    "varient4": [
+      "Sharp 6-Str",
+      "1996 cc, Automatic, Diesel, 12.4 kmpl",
+      "Rs.35.78 Lakh*"
+    ],
+    "varient5": [
+      "Savvy 6-Str",
+      "1996 cc, Automatic, Diesel, 12.4 kmpl",
+      "Rs.37.28 Lakh*"
+    ]
+  },
+  "VarientCNG": {},
+
+  "Mileage": {
+    "mileage1": ["Petrol (1197 cc)", "Manual", "23.26 kmpl"],
+    "mileage2": ["CNG (796 cc)", "Manual", "31.59 km/kg"]
+  },
+
+  "LatestUpdate": [
+    "Latest Update: MG has increased the prices of the Gloster by up to Rs 80,000. MG Gloster Price: The full-size SUV is priced from Rs 29.98 lakh to Rs 36.88 lakh (ex-showroom). MG Gloster Variants and Seating Capacity: MG offers the 6-seater version in three variants: Smart, Sharp and Savvy. The 7-seater layout is available in two variants: Super and Sharp. MG Gloster Powertrains: The Gloster gets two diesel engines: 2.0-litre turbo diesel (163PS/375Nm) and 2.0-litre twin-turbo diesel (218PS/480Nm). Both come mated to an 8-speed automatic transmission. While the 2.0-litre turbo-diesel engine is offered with a rear-wheel-drive setup, the 2.0-litre twin-turbo diesel motor gets four-wheel drive. MG Gloster Features: It comes with a 12.3-inch touchscreen infotainment system with Android Auto and Apple CarPlay, three-zone climate control with PM 2.5 filter, panoramic sunroof, and a 12-way adjustable driver seat with memory function. MG Gloster Safety: Safety features include adaptive cruise control, semi-parallel park assist, autonomous emergency braking, and lane keep assist. MG Gloster Rivals: The Gloster locks horns with the Toyota Fortuner, Mahindra Alturas G4, Ford Endeavour, Volkswagen Tiguan Allspace, and the Skoda Kodiaq."
+  ],
+
+  "ProsCons": {
+    "pros": [
+      "Powerful twin-turbo diesel engine option",
+      "Class-leading safety features including Autonomous Level 1 features",
+      "Packed with comfort features",
+      "Sets new segment benchmark in term of interior quality",
+      "Comfortable third-row seating"
+    ],
+    "cons": [
+      "Fuel efficiency is mediocre for the twin-turbo engine variant",
+      "Low-speed ride is a bit bumpy",
+      "Fortuner and Endeavour diehards make this a very hard segment to crack"
+    ]
+  },
+  "Colorss": {
+    "color1": ["Agate Red", "bg-red-800"],
+    "color2": ["Metal Black", "bg-gray-900"],
+    "color3": ["Metal Ash", "bg-gray-600"],
+    "color4": ["Warm White", "bg-white"]
+  },
+
+  "ComparisionCar": {
+    "comparisioncar1": [
+      "₹ 33.81 Lakh Onwards",
+      "12.9 kmpl",
+      "1996 cc",
+      "Automatic",
+      "Diesel",
+      "7 Seater",
+      "4903 mm in length, 1869 mm in width and 1837 mm in height",
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149473.jpeg?q=85"
+    ],
+    "comparisioncar2": [
+      "₹ 30.36 Lakh onwards",
+      "10.01 to 14.22 kmpl",
+      "2694 to 2755 cc",
+      "Manual & Automatic",
+      "Petrol & Diesel",
+      "7 Seater",
+      "4,795 mm L x 1,855 mm W x 1,835 mm H",
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85"
+    ]
+  },
+
+  "HighlightedFeatures": {
+    "feature1": [
+      "https://stimg.cardekho.com/images/carinteriorimages/930x620/Maruti/Baleno/6778/1615985207322/interior-image-209.jpg?imwidth=480",
+      "Stylish Interiors",
+      ""
+    ],
+    "feature2": [
+      "https://image.shutterstock.com/image-photo/car-door-lock-knob-children-260nw-1514746379.jpg",
+      "Rear Door Child Lock",
+      ""
+    ],
+    "feature3": [
+      "https://stimg.cardekho.com/images/carinteriorimages/630x420/Maruti/Alto-800/7075/1594805410865/airbags-94.jpg?tr=w-360",
+      "2 Airbags",
+      ""
+    ]
+  },
+  "faqs": {
+    "question1": [
+      "What is the on road price of Gloster?",
+      "The on-road price of Gloster in Delhi starts at ‎₹ 35.12 Lakh and goes upto ‎₹ 43.11 Lakh. The on road price is made up of ex-showroom price, RTO registration, road tax and insurance amount."
+    ],
+    "question2": [
+      "Which car is better between Gloster and Endeavour?",
+      "Gloster price starts at ₹ 29.98 Lakh ex-showroom and It comes with 1996 cc engine. Whereas Endeavour price starts at ₹ 33.81 Lakh ex-showroom and It comes with 2198 cc engine. Compare the two models to identify the best car for you."
+    ],
+    "question3": [
+      "What is price of Gloster top model?",
+      "Top model of Gloster is Savvy 6 STR 2.0 Twin Turbo 4WD and the ex-showroom for Gloster Savvy 6 STR 2.0 Twin Turbo 4WD is ₹ 36.88 Lakh."
+    ]
+  },
+
+  "articles": {
+    "article1": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article2": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article3": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ]
+  },
+
+  "SimilarCars": {},
+  "ThatBrandCars": {
+    "car1": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg?q=85",
+      "Hector",
+      "₹ 13.18 Lakh onwards"
+    ],
+    "car2": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/45184/hector-plus-exterior-right-front-three-quarter-7.jpeg?q=85",
+      "Hector Plus",
+      "₹ 13.63 Lakh onwards"
+    ],
+    "car3": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/39348/zs-ev-exterior-right-front-three-quarter-2.jpeg?q=85",
+      "ZS EV",
+      "₹ 21.00 Lakh onwards"
+    ]
+  },
+
+  "UpcommingCarBrand": {
+    "car1": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/zs-petrol-exterior-left-front-three-quarter.jpeg?q=85",
+      "ZS Petrol",
+      "₹ 10.00 - 17.00 Lakh"
+    ],
+    "car2": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47333/mg-baojun-510-right-front-three-quarter0.jpeg?q=85",
+      "MG Baojun 510",
+      "₹ 11.00 - 15.00 Lakh"
+    ],
+    "car3": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/45347/mg-g10-left-side-view0.jpeg?q=85",
+      "G10",
+      "₹ 24.00 - 30.00 Lakh"
+    ]
+  },
+  "CarInfo": {
+    "CompanyName": "MG",
+    "CarName": "MG Gloster",
+    "OnlyName": ["Gloster"],
+    "Price": ["₹ 29.98 Lakh"],
+    "TopPic": ["https://i.ibb.co/VJjPByS/gloster.webp"],
+    "ThumPic": "https://i.ibb.co/PzDDHD5/gloster1630474668.jpg",
+    "CarFullName": ["MG Gloster"]
+  }
+}

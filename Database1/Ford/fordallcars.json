@@ -1,0 +1,29 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/3MxQqMn/Ecosport1630474667.jpg",
+      "EcoSport",
+      "₹ 8.19 Lakh onwards"
+    ],
+    "car2": [
+      "https://i.ibb.co/grRZ9kf/endeavour1630474667.jpg",
+      "Endeavour",
+      "₹ 33.81 Lakh onwards"
+    ],
+    "car3": [
+      "https://i.ibb.co/KLZjDz2/figo1630474667.jpg",
+      "Figo",
+      "₹ 5.82 Lakh onwards"
+    ],
+    "car4": [
+      "https://i.ibb.co/yksVqJj/Freestyle-jpg1630474668.jpg",
+      "Freestyle",
+      "₹ 7.28 Lakh onwards"
+    ],
+    "car5": [
+      "https://i.ibb.co/4TWjMrD/Aspire1630474667.jpg",
+      "Aspire",
+      "₹ 7.28 Lakh onwards"
+    ]
+  }
+}
