@@ -1,0 +1,24 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/nnKQRDJ/Polo1630474668.jpg",
+      "Polo",
+      "₹ 6.21 Lakh onwards"
+    ],
+    "car2": [
+      "https://i.ibb.co/W2x7rz6/troc1630474669.jpg",
+      "T-Roc",
+      "₹ 21.35 Lakh onwards"
+    ],
+    "car3": [
+      "https://i.ibb.co/5r0F5dr/Vento1630474669.jpg",
+      "Vento",
+      "₹ 10.00 Lakh onwards"
+    ],
+    "car4": [
+      "https://i.ibb.co/RhYF6D8/Tiguan1630474669.jpg",
+      "Tiguan Allspace",
+      "₹ 34.19 Lakh onwards"
+    ]
+  }
+}

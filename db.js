@@ -87,6 +87,18 @@ var tiguan = require("./Database1/Volkswagen/TigualAllSpace/AllSpecs.json");
 var troc = require("./Database1/Volkswagen/TRoc/AllSpecs.json");
 var vento = require("./Database1/Volkswagen/Vento/AllSpecs.json");
 var ford = require("./Database1/Ford/fordallcars.json");
+var honda = require("./Database1/Honda/hondaallcars.json");
+var hyundai = require("./Database1/Hyundai/hyundaiallcars.json");
+var kia = require("./Database1/Kia/kiaallcars.json");
+var mahindra = require("./Database1/Mahindra/mahindraallcars.json");
+var marutisuzuki = require("./Database1/MarutiSuzuki/marutiallcars.json");
+var mg = require("./Database1/MG/mgallcars.json");
+var nissan = require("./Database1/Nissan/allnissancars.json");
+var renault = require("./Database1/Renault/allrenaultcars.json");
+var skoda = require("./Database1/Skoda/allskodacars.json");
+var tata = require("./Database1/Tata/alltatacars.json");
+var toyota = require("./Database1/Toyota/alltoyotacars.json");
+var volkswagen = require("./Database1/Volkswagen/allvwcars.json");
 // and so on
 
 module.exports = function () {
@@ -98,6 +110,18 @@ module.exports = function () {
     figo: figo,
     freestyle: freestyle,
     ford: ford,
+    honda: honda,
+    hyundai: hyundai,
+    kia: kia,
+    mahindra: mahindra,
+    marutisuzuki: marutisuzuki,
+    mg: mg,
+    nissan: nissan,
+    renault: renault,
+    skoda: skoda,
+    tata: tata,
+    toyota: toyota,
+    volkswagen: volkswagen,
     /////////Honda
     amaze: amaze,
     city: city,

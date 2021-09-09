@@ -1,0 +1,59 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/G0wf09j/creta1630474667.jpg",
+      "Creta",
+      "₹ 10.15 Lakh onwards"
+    ],
+    "car2": [
+      "https://i.ibb.co/945Zm7j/venue1630474669.jpg",
+      "Venue",
+      "₹ 6.99 Lakh onwards"
+    ],
+    "car3": [
+      "https://i.ibb.co/tXN7Qxc/i201630474668.jpg",
+      "i20",
+      "₹ 6.91 Lakh onwards"
+    ],
+    "car4": [
+      "https://i.ibb.co/Sc2C1PT/nios1630474668.jpg",
+      "i10 Nios",
+      "₹ 5.28 Lakh onwards"
+    ],
+    "car5": [
+      "https://i.ibb.co/v4fWT5B/verna1630474669.jpg",
+      "Verna",
+      "₹ 9.28 Lakh onwards"
+    ],
+    "car6": [
+      "https://i.ibb.co/x3VMDY4/aura1630474667.jpg",
+      "Aura",
+      "₹ 6.00 Lakh onwards"
+    ],
+    "car7": [
+      "https://i.ibb.co/CQmFwPJ/santro1630474668.jpg",
+      "Santro",
+      "₹ 4.77 Lakh onwards"
+    ],
+    "car8": [
+      "https://i.ibb.co/MZHVn1d/alcazer1630474667.jpg",
+      "Alcazar",
+      "₹ 16.30 Lakh onwards"
+    ],
+    "car9": [
+      "https://i.ibb.co/27gSySG/elantra1630474667.jpg",
+      "Elantra",
+      "₹ 17.86 Lakh onwards"
+    ],
+    "car10": [
+      "https://i.ibb.co/zXV7ypY/kona1630474668.jpg",
+      "Kona Electric",
+      "₹ 23.79 Lakh onwards"
+    ],
+    "car11": [
+      "https://i.ibb.co/Npx8x7N/tucson1630474669.jpg",
+      "Tucson",
+      "₹ 22.69 Lakh onwards"
+    ]
+  }
+}

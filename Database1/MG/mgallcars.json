@@ -1,0 +1,24 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/DMkZYFL/hector1630474668.jpg",
+      "Hector",
+      "₹ 13.18 Lakh onwards"
+    ],
+    "car2": [
+      "https://i.ibb.co/mcDzqW1/hectorplus1630474668.jpg",
+      "Hector Plus",
+      "₹ 13.63 Lakh onwards"
+    ],
+    "car3": [
+      "https://i.ibb.co/yFVNnHM/zsev1630474669.jpg",
+      "ZS EV",
+      "₹ 21.00 Lakh onwards"
+    ],
+    "car4": [
+      "https://i.ibb.co/PzDDHD5/gloster1630474668.jpg",
+      "Gloster",
+      "₹ 29.98 Lakh onwards"
+    ]
+  }
+}

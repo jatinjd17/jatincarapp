@@ -1,0 +1,24 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/KK077Fs/kwid1630474668.jpg",
+      "Kwid",
+      "₹ 3.31 Lakh"
+    ],
+    "car2": [
+      "https://i.ibb.co/ykLtK0Q/Triber1630474669.jpg",
+      "Triber",
+      "₹ 5.49 Lakh"
+    ],
+    "car3": [
+      "https://i.ibb.co/6JTTzKr/kiger1630474668.jpg",
+      "Kiger",
+      "₹ 5.64 Lakh"
+    ],
+    "car4": [
+      "https://i.ibb.co/XXKv0kJ/duster1630474667.jpg",
+      "Duster",
+      "₹ 9.84 Lakh"
+    ]
+  }
+}

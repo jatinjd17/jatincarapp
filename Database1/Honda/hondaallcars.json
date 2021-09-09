@@ -1,0 +1,29 @@
+{
+  "ThatBrandCars": {
+    "car1": [
+      "https://i.ibb.co/WvQNpW9/amaze1630474667.jpg",
+      "Amaze",
+      "₹ 6.34 Lakh onwards"
+    ],
+    "car2": [
+      "https://i.ibb.co/jrh3rck/city1630474667.jpg",
+      "City",
+      "₹ 11.19 Lakh onwards"
+    ],
+    "car3": [
+      "https://i.ibb.co/pWdF2NY/wrv1630474669.jpg",
+      "WRV",
+      "₹ 8.90 Lakh onwards"
+    ],
+    "car4": [
+      "https://i.ibb.co/r6KvBHv/jazz1630474668.jpg",
+      "Jazz",
+      "₹ 7.75 Lakh onwards"
+    ],
+    "car5": [
+      "https://i.ibb.co/ZM5RRB5/city41630474667.jpg",
+      "City 4th Gen",
+      "₹ 9.33 Lakh onwards"
+    ]
+  }
+}
