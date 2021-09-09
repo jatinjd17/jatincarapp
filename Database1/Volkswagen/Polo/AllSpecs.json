@@ -381,19 +381,32 @@
 
   "sss": [
     {
-      "cimg": "https://imgd.aeplcdn.com/664x374/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg?q=85",
-      "cname": "Nexon",
-      "cprice": "₹ 7.20 Lakh onwards"
+      "ccard": [
+        "https://i.ibb.co/nnKQRDJ/Polo1630474668.jpg",
+        "Polo",
+        "₹ 6.21 Lakh onwards"
+      ]
     },
     {
-      "cimg": "https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/tata-altroz-right-front-three-quarter20.jpeg?q=85",
-      "cname": "Altroz",
-      "cprice": "₹ 5.80 Lakh onwards"
+      "ccard": [
+        "https://i.ibb.co/W2x7rz6/troc1630474669.jpg",
+        "TRoc",
+        "₹ 21.35 Lakh onwards"
+      ]
     },
     {
-      "cimg": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40027/safari-exterior-right-front-three-quarter-2.jpeg?q=85",
-      "cname": "Safari",
-      "cprice": "₹ 14.99 Lakh onwards"
+      "ccard": [
+        "https://i.ibb.co/5r0F5dr/Vento1630474669.jpg",
+        "Vento",
+        "₹ 10.00 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/RhYF6D8/Tiguan1630474669.jpg",
+        "Tiguan",
+        "₹ 34.19 Lakh onwards"
+      ]
     }
   ]
 }
