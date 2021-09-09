@@ -389,6 +389,36 @@
       "₹ 9.00 - 12.00 Lakh"
     ]
   },
+  "Thatbrandmobile": [
+    {
+      "ccard": [
+        "https://i.ibb.co/wLFssVN/rapid1630474668.jpg",
+        "Rapid",
+        "₹ 7.80 Lakh"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/GWFgSjF/octavia1630474668.jpg",
+        "Octavia",
+        "₹ 26.01 Lakh"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/yVnvMPZ/superb1630474668.jpg",
+        "Superb",
+        "₹ 32.02 Lakh"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/DV3SYFG/kushaq1630474668.jpg",
+        "Kushaq",
+        "₹ 10.51 Lakh"
+      ]
+    }
+  ],
   "CarInfo": {
     "CompanyName": "Skoda",
     "CarName": "Skoda Rapid",

@@ -438,6 +438,29 @@
       "Rs.9.00 Lakh*"
     ]
   },
+  "Thatbrandmobile": [
+    {
+      "ccard": [
+        "https://i.ibb.co/RBnjqdp/sonet1630474668.jpg",
+        "Sonet",
+        "₹ 6.79 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/kH99qpj/seltos1630474668.jpg",
+        "Seltos",
+        "₹ 9.96 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/yQ2qPNb/carnival1630474667.jpg",
+        "Carnival",
+        "₹ 24.95 Lakh onwards"
+      ]
+    }
+  ],
   "CarInfo": {
     "CompanyName": "Kia",
     "CarName": "Kia Seltos",

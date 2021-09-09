@@ -387,6 +387,45 @@
       "₹ 12.00 - 16.00 Lakh"
     ]
   },
+
+  "Thatbrandmobile": [
+    {
+      "ccard": [
+        "https://i.ibb.co/WvQNpW9/amaze1630474667.jpg",
+        "Amaze",
+        "₹ 6.34 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/jrh3rck/city1630474667.jpg",
+        "City",
+        "₹ 11.19 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/pWdF2NY/wrv1630474669.jpg",
+        "WRV",
+        "₹ 8.90 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/r6KvBHv/jazz1630474668.jpg",
+        "Jazz",
+        "₹ 7.75 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/ZM5RRB5/city41630474667.jpg",
+        "City4",
+        "₹ 9.33 Lakh onwards"
+      ]
+    }
+  ],
+
   "CarInfo": {
     "CompanyName": "Honda",
     "CarName": "Honda WRV",

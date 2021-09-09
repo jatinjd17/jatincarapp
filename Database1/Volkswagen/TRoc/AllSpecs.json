@@ -335,6 +335,37 @@
       "₹ 28.00 - 32.00 Lakh"
     ]
   },
+  "Thatbrandmobile": [
+    {
+      "ccard": [
+        "https://i.ibb.co/nnKQRDJ/Polo1630474668.jpg",
+        "Polo",
+        "₹ 6.21 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/W2x7rz6/troc1630474669.jpg",
+        "TRoc",
+        "₹ 21.35 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/5r0F5dr/Vento1630474669.jpg",
+        "Vento",
+        "₹ 10.00 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/RhYF6D8/Tiguan1630474669.jpg",
+        "Tiguan",
+        "₹ 34.19 Lakh onwards"
+      ]
+    }
+  ],
+
   "CarInfo": {
     "CompanyName": "Volkswagen",
     "CarName": "Volkswagen T-roc",
