@@ -377,5 +377,23 @@
     "TopPic": ["https://i.ibb.co/g6vjn7m/Polo.png"],
     "ThumPic": "https://i.ibb.co/nnKQRDJ/Polo1630474668.jpg",
     "CarFullName": ["Volkswagen Polo"]
-  }
+  },
+
+  "sss": [
+    {
+      "cimg": "https://imgd.aeplcdn.com/664x374/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg?q=85",
+      "cname": "Nexon",
+      "cprice": "₹ 7.20 Lakh onwards"
+    },
+    {
+      "title": "https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/tata-altroz-right-front-three-quarter20.jpeg?q=85",
+      "body": "Altroz",
+      "imgUrl": "₹ 5.80 Lakh onwards"
+    },
+    {
+      "title": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40027/safari-exterior-right-front-three-quarter-2.jpeg?q=85",
+      "body": "Safari",
+      "imgUrl": "₹ 14.99 Lakh onwards"
+    }
+  ]
 }
