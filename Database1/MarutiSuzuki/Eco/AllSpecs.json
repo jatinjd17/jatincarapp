@@ -452,6 +452,55 @@
       ]
     }
   ],
+
+  "ComparisionCarMobile": [
+    {
+      "ccard": [
+        "Dzire",
+        "₹ 5.98 Lakh onwards",
+        "23.26 to 24.12 kmpl",
+        "1197 cc",
+        "Manual & Automatic",
+        "Petrol",
+        "5 Seater",
+        "3,995 mm L x 1,735 mm W x 1,515 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=85",
+
+        "Aura",
+        "₹ 6.00 Lakh onwards",
+        "20 to 28 kmpl",
+        "998 to 1197 cc",
+        "Manual & Automatic AMT",
+        "Petrol & Diesel",
+        "5 Seater",
+        "3,995 mm L x 1,680 mm W x 1,520 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85"
+      ]
+    },
+    {
+      "ccard": [
+        "Aura",
+        "₹ 6.00 Lakh onwards",
+        "20 to 28 kmpl",
+        "998 to 1197 cc",
+        "Manual & Automatic AMT",
+        "Petrol & Diesel",
+        "5 Seater",
+        "3,995 mm L x 1,680 mm W x 1,520 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85",
+        "Dzire",
+        "₹ 5.98 Lakh onwards",
+        "23.26 to 24.12 kmpl",
+        "1197 cc",
+        "Manual & Automatic",
+        "Petrol",
+        "5 Seater",
+        "3,995 mm L x 1,735 mm W x 1,515 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=85"
+      ]
+    }
+  ],
+
   "CarInfo": {
     "CompanyName": "MarutiSuzuki",
     "CarName": "MarutiSuzuki Eeco",
