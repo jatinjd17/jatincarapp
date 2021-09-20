@@ -240,7 +240,7 @@
     "color1": ["Oxford Blue", "bg-blue-600"],
     "color2": ["Premium Silver", "bg-gray-400"],
     "color3": ["Arctic White", "bg-white"],
-    "color4": ["Sherwood Brown", "bg-brown-600"],
+    "color4": ["Sherwood Brown", "bg-red-600"],
     "color5": ["Magma Grey", "bg-gray-800"],
     "color6": ["Phoenix Red", "bg-red-800"]
   },

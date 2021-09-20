@@ -258,7 +258,7 @@
     "color1": ["Torque Blue", "bg-blue-600"],
     "color2": ["Paprika Orange", "bg-orange-500"],
     "color3": ["Arctic White", "bg-white"],
-    "color4": ["Caffeine Brown", "bg-brown-600"],
+    "color4": ["Caffeine Brown", "bg-red-600"],
     "color5": ["Glistening Grey", "bg-gray-800"]
   },
 
