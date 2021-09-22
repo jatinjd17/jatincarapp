@@ -1,0 +1,399 @@
+{
+  "EngineTransmission": {
+    "EngineType": ["2755 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC"],
+    "Displacemant": ["1GD-FTV Turbocharged D-4D I4"],
+    "MaxPower": ["Diesel"],
+    "MaxTorque": ["201 bhp @ 3000 rpm"],
+    "No. of Cylinders": ["500 Nm @ 1600 rpm"],
+    "Cooling System": ["-"],
+    "Valve Per Cylinder": ["FWD"],
+    "Drive Type": [
+      "Automatic (Torque Converter) - 6 Gears, Manual Override & Paddle Shift, Sport Mode"
+    ],
+    "Starting": ["BS 6"],
+    "Fuel Supply": ["BS 6"],
+    "Clutch": ["BS 6"],
+    "Ignition": ["BS 6"],
+    "Transmission": ["BS 6"],
+    "Gear Box": ["BS 6"],
+    "Bore": ["BS 6"],
+    "Stroke": ["BS 6"],
+    "Compression Ratio": ["BS 6"],
+    "Emission Type": ["BS 6"]
+  },
+  "FeaturesAndSafety": {
+    "ABS": ["4795 mm"],
+    "MobileConnectivity": ["1855 mm"],
+    "Console": ["1835 mm"],
+    "PassSwitch": ["2745  mm"],
+    "Clock": ["-"],
+    "RidingModes": ["-"],
+    "Navigation": ["-"],
+    "AdditionalFeatures": ["-"],
+    "StepupSeat": ["-"],
+    "PassengerFootrest": ["-"],
+    "Display": ["-"]
+  },
+  "MileageAndPerformance": {
+    "CityMileage": ["Double Wishbone with Stabiliser"],
+    "HighwayMileage": ["4-Link with Coil Spring and Stabiliser"],
+    "TopSpeed": ["Ventilated Disc"],
+    "Acceleration": ["Ventilated Disc"],
+    "Acceleration80": ["5.8 meters"],
+    "Acceleration100": ["Power assisted (Hydraulic)"],
+    "QuarterMile": ["Alloy Wheels"],
+    "Rollons70": ["Alloy"],
+    "Rollons80": ["265 / 60 R18"],
+    "Braking60": ["265 / 60 R18"],
+    "Braking600": ["265 / 60 R18"],
+    "Braking800": ["265 / 60 R18"],
+    "Braking1000": ["265 / 60 R18"]
+  },
+  "Charging": {
+    "ChargingatHome": ["5 Star (ANCAP)"],
+    "ChargingatChargingstation": [
+      "7 Airbags (Driver, Passenger, 2 Curtain, Driver Knee, Driver Side, Front Passenger Side)"
+    ]
+  },
+  "ChassisAndSuspension": {
+    "Chassis": ["Yes"],
+    "BodyType": ["Yes"],
+    "FrontSuspension": ["Yes"],
+    "RearSUspension": ["Yes"],
+    "BodyGraphics": ["Yes"]
+  },
+  "DimensionsAndCapacity": {
+    "Length": ["Yes"],
+    "Width": ["Keyless"],
+    "Height": ["Yes"],
+    "FuelCapacity": ["Yes"],
+    "SaddleHeight": ["Yes"],
+    "GroundClearance": ["Yes"],
+    "Wheelbase": ["Yes"],
+    "KerbWeight": ["Yes"],
+    "LoadCapacity": ["Yes"]
+  },
+  "Electricals": {
+    "Headlights": ["Yes (Automatic)"],
+    "Taillight": ["Single Zone, Common Fan Speed Control"],
+    "TurnSignalLamp": ["Blower, Vents on Roof"],
+    "ProjectorHeadlights": ["Yes"],
+    "LEDTailLights": ["Driver & Co-Driver"],
+    "BatteryType": ["Yes"],
+    "BatteryCapacity": ["Electronic - Internal Only"],
+    "LowBatteryIndicator": ["Reverse Camera"],
+    "LowFuelIndicator": ["Front & Rear"],
+    "PilotLamps": ["Yes"]
+  },
+  "TyresAndBrakes": {
+    "TyreSize": [
+      "8 way electrically adjustable (seat forward / back, backrest tilt forward / back, seat height up / down, seat base angle up / down) + 2 way manually adjustable (headrest up / down)"
+    ],
+    "TyreType": [
+      "8 way electrically adjustable (seat forward / back, backrest tilt forward / back, seat height up / down, seat base angle up / down) + 2 way manually adjustable (headrest up / down)"
+    ],
+    "WheelSize": [
+      "6 way manually adjustable (seat forward / back, backrest tilt forward / back, headrest up / down)"
+    ],
+    "WheelsType": ["Leather"],
+    "FrontBrake": ["Yes"],
+    "RearBrake": ["Yes"],
+    "FrontBrakeDiameter": ["Yes"],
+    "ReatBrakeDiameter": ["Bench"],
+    "RadialTyre": ["Front only"],
+    "TyreBrand": ["Maroon / Black"]
+  },
+  "KeySpecification": [
+    "₹ 30.36 Lakh onwards",
+    "312.2 cc",
+    "25.8 PS Power 25 Nm Torque ",
+    "33.1 kmpl",
+    "Double Disc",
+    "Tubeless",
+    "4,795 mm L x 1,855 mm W x 1,835 mm H"
+  ],
+  "SafetyFeatures": [
+    "6 airbags",
+    "ABS with EBD and CSC",
+    "reverse parking sensors",
+    "ISOFIX",
+    "driver and co-driver seatbelt reminder",
+    "high-speed alert system",
+    "impact sensing auto door unlock."
+  ],
+  "VarientPetrol": {
+    "varient1": [
+      "Apache RR 310 ABS",
+      "2694 cc, Manual, Petrol, 10.01 kmpl - 10.26 kmpl",
+      "Rs.2,59,990"
+    ],
+    "varient2": [
+      "4X2 AT",
+      "2694 cc, Automatic, Petrol, 10.01 kmpl - 10.26 kmpl",
+      "Rs.31.93 Lakh*"
+    ]
+  },
+
+  "Mileage": {
+    "mileage1": ["Petrol (1197 cc)", "Manual", "23.26 kmpl"],
+    "mileage2": ["CNG (796 cc)", "Manual", "31.59 km/kg"]
+  },
+
+  "LatestUpdate": [
+    "The 2021 TVS Apache RR 310 has been launched in India. The flagship supersport is priced at Rs 2,59,500. In comparison, the 2020 TVS Apache RR 310 retailed at Rs 2,54,990 (both ex-showroom Delhi). For 2021, the Hosur-based manufacturer has equipped the motorcycle with a new exhaust system, new colour schemes, extra features in the instrument cluster, and more importantly, two optional performance-enhancing kits. You can read all about them in our launch report here. Here’s how you can go about buying the 2021 RR 310 in a few simple steps."
+  ],
+
+  "ProsCons": {
+    "pros": [
+      "Ride-by-wire and four rider modes allow adjustability in power delivery and ABS intervention.",
+      "Super grippy Michelin Road 5 rubber inspires great confidence in all weather conditions.",
+      "Despite being nearly three years old, it still manages to look just as stunning."
+    ],
+    "cons": [
+      "Shorter riders might not be able to see the turn-by-turn navigation section on the vertical dash.",
+      "Fortuner has become costlier by up to Rs 3 lakh",
+      "Legender does not get the 11-speaker music system"
+    ]
+  },
+  "Colorss": {
+    "color1": ["Phantom Brown", "bg-brown-800"],
+    "color2": ["Sparkling Black Crystal Shine", "bg-gray-900"],
+    "color3": ["Avant garde bronze", "bg-yellow-900"],
+    "color4": ["Super white", "bg-gray-100"],
+    "color5": ["Attitude Black", "bg-gray-900"],
+    "color6": ["Grey Metallic", "bg-gray-600"],
+    "color7": ["White Pearl Crystal Shine Metallic", "bg-gray-100"],
+    "color8": ["White Pearl Crystal Shine with Attitude Black", "bg-gray-900"]
+  },
+
+  "ComparisionCar": {
+    "comparisioncar1": [
+      "₹ 33.81 Lakh Onwards",
+      "12.9 kmpl",
+      "1996 cc",
+      "Automatic",
+      "Diesel",
+      "7 Seater",
+      "4903 mm in length, 1869 mm in width and 1837 mm in height",
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/37640/endeavour-exterior-right-front-three-quarter-149473.jpeg?q=85"
+    ],
+    "comparisioncar2": [
+      "₹ 29.98 Lakh",
+      "12.35 kmpl",
+      "1996 cc",
+      "Automatic (Torque Converter)",
+      "Diesel",
+      "6 & 7 Seater",
+      "4,985 mm L x 1,926 mm W x 1,867 mm H",
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/43485/gloster-exterior-right-front-three-quarter-3.jpeg?q=85"
+    ]
+  },
+
+  "HighlightedFeatures": {
+    "feature1": [
+      "https://stimg.cardekho.com/images/carinteriorimages/930x620/Maruti/Baleno/6778/1615985207322/interior-image-209.jpg?imwidth=480",
+      "Stylish Interiors",
+      ""
+    ],
+    "feature2": [
+      "https://image.shutterstock.com/image-photo/car-door-lock-knob-children-260nw-1514746379.jpg",
+      "Rear Door Child Lock",
+      ""
+    ],
+    "feature3": [
+      "https://stimg.cardekho.com/images/carinteriorimages/630x420/Maruti/Alto-800/7075/1594805410865/airbags-94.jpg?tr=w-360",
+      "2 Airbags",
+      ""
+    ]
+  },
+  "faqs": {
+    "question1": [
+      "What is the on road price of Fortuner?",
+      "The on-road price of Fortuner in Delhi starts at ‎₹ 35.33 Lakh and goes upto ‎₹ 45.82 Lakh. The on road price is made up of ex-showroom price, RTO registration, road tax and insurance"
+    ],
+    "question2": [
+      "Which car is better between Fortuner and Endeavour?",
+      "Fortuner price starts at ₹ 30.36 Lakh ex-showroom and It comes with 2694 cc engine. Whereas Endeavour price starts at ₹ 33.81 Lakh ex-showroom and It comes with 2198 cc"
+    ],
+    "question3": [
+      "What is the mileage of Toyota Fortuner?",
+      "The Toyota Fortuner mileage is 10.01 - 14.22 kmpl."
+    ]
+  },
+
+  "articles": {
+    "article1": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article2": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ],
+    "article3": [
+      "/kushaq.png",
+      "Rath Yatra 2021: About 60 Skoda Kushaq SUVs To Be Delivered In Ahmedabad"
+    ]
+  },
+
+  "SimilarCars": {},
+  "ThatBrandCars": {
+    "car1": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/51435/innova-crysta-exterior-right-front-three-quarter-3.jpeg?q=85",
+      "Innova",
+      "₹ 16.82 Lakh onwards"
+    ],
+    "car2": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85",
+      "Fortuner",
+      "₹ 30.36 Lakh onwards"
+    ],
+    "car3": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/47016/urban-cruiser-exterior-right-front-three-quarter.jpeg?q=85",
+      "Urban Cruiser",
+      "₹ 8.63 Lakh onwards"
+    ],
+    "car4": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/39545/glanza-exterior-right-front-three-quarter-159523.jpeg?q=85",
+      "Glanza",
+      "₹ 7.34 Lakh onwards"
+    ],
+    "car5": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/32943/yaris-exterior-right-front-three-quarter-2.jpeg?q=85",
+      "Yaris",
+      "₹ 9.17 Lakh onwards"
+    ],
+    "car6": [
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/41217/toyota-vellfire-right-front-three-quarter5.jpeg?q=85",
+      "Vellfire",
+      "₹ 89.89 Lakh onwards"
+    ],
+    "car7": [
+      "https://imgd.aeplcdn.com/664x374/cw/ec/37561/Toyota-Camry-Right-Front-Three-Quarter-146683.jpg?wm=0&q=85",
+      "Camry",
+      "₹ 40.61 Lakh onwards"
+    ]
+  },
+
+  "UpcommingCarBrand": {
+    "car1": [
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Hilux/8445/1622783707227/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      "Hilux",
+      "Rs.18.00 Lakh*"
+    ],
+    "car2": [
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Land-Cruiser/8448/1623313668941/front-left-side-47.jpg?tr=w-456",
+      "Land Cruiser",
+      "Rs.1.50 Cr*"
+    ]
+  },
+  "Thatbrandmobile": [
+    {
+      "ccard": [
+        "https://i.ibb.co/CVtGrTZ/innova1630474668.jpg",
+        "Innova",
+        "₹ 16.82 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/DkDwYyq/fortuner1630474667.jpg",
+        "Fortuner",
+        "₹ 30.36 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/rsLSWr6/urbancruiser1630474669.jpg",
+        "Urban Cruiser",
+        "₹ 8.63 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/ZY5C0px/glanza1630474668.jpg",
+        "Glanza",
+        "₹ 7.34 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/BZZVKJ4/yaris1630474669.jpg",
+        "Yaris",
+        "₹ 9.17 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/tPKSLcr/vellfire1630474669.jpg",
+        "Vellfire",
+        "₹ 89.89 Lakh onwards"
+      ]
+    },
+    {
+      "ccard": [
+        "https://i.ibb.co/g37fTZq/camry1630474667.jpg",
+        "Camry",
+        "₹ 40.61 Lakh onwards"
+      ]
+    }
+  ],
+
+  "ComparisionCarMobile": [
+    {
+      "ccard": [
+        "Dzire",
+        "₹ 5.98 Lakh onwards",
+        "23.26 to 24.12 kmpl",
+        "1197 cc",
+        "Manual & Automatic",
+        "Petrol",
+        "5 Seater",
+        "3,995 mm L x 1,735 mm W x 1,515 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=85",
+
+        "Aura",
+        "₹ 6.00 Lakh onwards",
+        "20 to 28 kmpl",
+        "998 to 1197 cc",
+        "Manual & Automatic AMT",
+        "Petrol & Diesel",
+        "5 Seater",
+        "3,995 mm L x 1,680 mm W x 1,520 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85"
+      ]
+    },
+    {
+      "ccard": [
+        "Aura",
+        "₹ 6.00 Lakh onwards",
+        "20 to 28 kmpl",
+        "998 to 1197 cc",
+        "Manual & Automatic AMT",
+        "Petrol & Diesel",
+        "5 Seater",
+        "3,995 mm L x 1,680 mm W x 1,520 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/41652/aura-exterior-right-front-three-quarter-54.jpeg?q=85",
+        "Dzire",
+        "₹ 5.98 Lakh onwards",
+        "23.26 to 24.12 kmpl",
+        "1197 cc",
+        "Manual & Automatic",
+        "Petrol",
+        "5 Seater",
+        "3,995 mm L x 1,735 mm W x 1,515 mm H",
+        "https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=85"
+      ]
+    }
+  ],
+
+  "CarInfo": {
+    "CompanyName": "Toyota",
+    "CarName": "Toyota Fortuner",
+    "OnlyName": ["Fortuner"],
+    "Price": ["₹ 30.36 Lakh"],
+    "TopPic": ["https://i.ibb.co/r4sHtPJ/fortuner.jpg"],
+    "ThumPic": "https://i.ibb.co/DkDwYyq/fortuner1630474667.jpg",
+    "CarFullName": ["Toyota Fortuner"]
+  }
+}

@@ -99,6 +99,7 @@ var skoda = require("./Database1/Skoda/allskodacars.json");
 var tata = require("./Database1/Tata/alltatacars.json");
 var toyota = require("./Database1/Toyota/alltoyotacars.json");
 var volkswagen = require("./Database1/Volkswagen/allvwcars.json");
+var apacherr310 = require("./Database1/TVS/ApacheRR310/AllSpecs.json");
 // and so on
 
 module.exports = function () {
@@ -206,5 +207,6 @@ module.exports = function () {
     tiguan: tiguan,
     troc: troc,
     vento: vento,
+    apacherr310: apacherr310,
   };
 };
